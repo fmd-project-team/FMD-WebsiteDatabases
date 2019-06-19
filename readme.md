@@ -139,7 +139,6 @@
 | MangaKid             |            | Broken   |                 |        |
 | MangaKita            | 14.06.2019 | OK       | 1               | 265    |
 | MangaKu              | 14.06.2019 | OK       | 1               | 517    |
-| MangaLib             | 09.06.2019 | Broken   |                 |        |
 | MangaLib             |            | Broken   |                 |        |
 | MangaLife            | 09.06.2019 | OK       | 1               | 4601   |
 | MangaLike            | 09.06.2019 | OK       | 1               | 2620   |
@@ -204,7 +203,7 @@
 | NineMangaES          | 16.06.2019 | OK       | 900             | 23090  |
 | NineMangaIT          | 16.06.2019 | OK       | 100             | 2152   |
 | NineMangaRU          | 17.06.2019 | OK       | 654             | 16838  |
-| NinjaScans           | 18.06.2019 | OK       | 2               | 14     |
+| NinjaScans           | 19.06.2019 | OK       | 2               | 16     |
 | NoraNoFansub         | 16.06.2019 | OK       | 3               | 69     |
 | OneTimeScans         | 16.06.2019 | OK       | 2               | 33     |
 | OtakuIndo            | 09.06.2019 | OK       | 1               | 626    |
