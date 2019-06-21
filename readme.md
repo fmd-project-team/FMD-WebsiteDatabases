@@ -193,7 +193,7 @@
 | NeoProjectScan       |            | Broken   |                 |        |
 | NetTruyen            | 15.06.2019 | OK       | 440             | 15835  |
 | NeuManga             | 10.06.2019 | OK       |                 | 1315   |
-| NewType              | 09.06.2019 | Broken   | 1               | 36     |
+| NewType              | 21.06.2019 | OK       | 1               | 79     |
 | NHentai              |            | Blocked  | 10822           |        |
 | NiAdd                |            | Broken   |                 |        |
 | Nightow              |            | Broken   |                 |        |
