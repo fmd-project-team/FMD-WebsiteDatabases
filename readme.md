@@ -59,7 +59,7 @@
 | HentaiHere           | 12.06.2019 | OK       | 636             | 25439  |
 | HentaiNexus          | 09.06.2019 | OK       |                 | 4854   |
 | HentaiRead           |            | Broken   |                 |        |
-| HitomiLa             |            | Broken   |                 |        |
+| HitomiLa             | 24.06.2019 | OK       | 1               | 476735 |
 | HoduComics           |            | Broken   |                 |        |
 | HolyManga            | 12.06.2019 | OK       | 224             | 6686   |
 | HoshikuzuuScans      | 12.06.2019 | OK       | 3               | 64     |
