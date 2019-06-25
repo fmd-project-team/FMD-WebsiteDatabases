@@ -11,6 +11,7 @@
 | AsmHentai            | 10.06.2019 | OK       | 13039           | 260775 |
 | AtelierDuNoir        |            | Broken   |                 |        |
 | Authrone             | 10.06.2019 | OK       | 294             | 9366   |
+| AzoraManga           | 25.06.2019 | OK       | 3               | 131    |
 | BacaManga            |            | Broken   |                 |        |
 | Batoto               | 10.06.2019 | OK       | 527             | 31561  |
 | BlogTruyen           |            | Broken   |                 |        |
@@ -103,9 +104,9 @@
 | LoliVault            | 13.06.2019 | OK       | 4               | 92     |
 | Luscious             |            | Broken   |                 |        |
 | Madokami             |            | No Login |                 |        |
+| MaidMangaID          | 25.06.2019 | OK       | 1               | 396    |
 | Manga99              | 13.06.2019 | OK       | 99              | 1833   |
 | MangaAe              | 13.06.2019 | OK       | 108             | 5160   |
-| MangaArab            |            | Broken   |                 |        |
 | MangaBB              |            | Broken   |                 |        |
 | Mangacan             | 09.06.2019 | OK       |                 | 913    |
 | MangaCeng            | 10.06.2019 | OK       |                 | 23     |
@@ -183,7 +184,6 @@
 | ManHuaTai            |            | Broken   |                 |        |
 | ManhwaCo             | 15.06.2019 | OK       | 1               | 15     |
 | ManhwaHand           | 15.06.2019 | OK       | 3               | 151    |
-| ManhwaHentai         | 15.06.2019 | OK       | 3               | 180    |
 | ManyToon             | 09.06.2019 | OK       | 3               | 118    |
 | MenudoFansub         | 15.06.2019 | OK       | 5               | 101    |
 | MerakiScans          | 15.06.2019 | OK       | 1               | 37     |
@@ -287,7 +287,6 @@
 | WhiteCloudPavilion   | 17.06.2019 | OK       | 1               | 15     |
 | WieManga             | 17.06.2019 | OK       | 27              | 604    |
 | WorldThree           | 17.06.2019 | OK       | 2               | 26     |
-| WoweScans            |            | Broken   |                 |        |
 | XAnimeSeduccion      | 17.06.2019 | OK       | 5               | 50     |
 | YaoiChanRU           | 09.06.2019 | OK       | 584             | 11660  |
 | YaoiIsLife           | 17.06.2019 | OK       | 4               | 86     |
