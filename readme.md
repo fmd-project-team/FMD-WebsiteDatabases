@@ -54,7 +54,7 @@
 | HeavenManga          | 12.06.2019 | OK       | 223             | 6673   |
 | HelveticaScans       | 12.06.2019 | OK       | 2               | 28     |
 | Hentai2Read          | 12.06.2019 | OK       | 530             | 25424  |
-| HentaiCafe           |            | Broken   |                 |        |
+| HentaiCafe           | 30.06.2019 | OK       | 416             | 3742   |
 | HentaiChanRU         | 09.06.2019 | OK       |                 | 15939  |
 | HentaiFox            | 13.06.2019 | OK       | 2991            | 59810  |
 | HentaiHere           | 12.06.2019 | OK       | 636             | 25439  |
@@ -137,7 +137,7 @@
 | MangaInn             | 14.06.2019 | OK       | 27              | 15634  |
 | MangaKakalot         | 08.06.2019 | OK       |                 | 19907  |
 | MangaKakalotFun      | 14.06.2019 | OK       | 774             | 23220  |
-| MangaKid             |            | Broken   |                 |        |
+| MangaKid             | 30.06.2019 | OK       | 1               | 2558   |
 | MangaKita            | 14.06.2019 | OK       | 1               | 265    |
 | MangaKu              | 14.06.2019 | OK       | 1               | 517    |
 | MangaLib             |            | Broken   |                 |        |
