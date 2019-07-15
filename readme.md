@@ -1,3 +1,7 @@
+When creating a pull request, always update this list as well.
+Otherwise the request may be declined until you update the list.
+  
+  
 | Website              | Updated    | Status   | Directory pages | Manga  |
 |:---------------------|:----------:|:--------:|:---------------:|:------:|
 | 3asq                 | 09.06.2019 | OK       |                 | 190    |
