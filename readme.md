@@ -87,6 +87,7 @@ Otherwise the request may be declined until you update the list.
 | KissManga            | 10.06.2019 | OK       |                 | 16157  |
 | KlikManga            | 09.06.2019 | OK       |                 | 1599   |
 | KnightNoFansub       | 09.06.2019 | OK       |                 | 10     |
+| KomikAV              | 19.07.2019 | OK       | 1               | 1322   |
 | KomikCast            | 09.06.2019 | OK       |                 | 2124   |
 | KomikGo              | 11.06.2019 | OK       |                 | 2533   |
 | KomikGue             | 10.06.2019 | OK       |                 | 607    |
