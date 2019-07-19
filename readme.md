@@ -62,7 +62,7 @@ Otherwise the request may be declined until you update the list.
 | HentaiChanRU         | 09.06.2019 | OK       |                 | 15939  |
 | HentaiFox            | 13.06.2019 | OK       | 2991            | 59810  |
 | HentaiHere           | 12.06.2019 | OK       | 636             | 25439  |
-| HentaiNexus          | 09.06.2019 | OK       |                 | 4854   |
+| HentaiNexus          | 19.07.2019 | OK       | 168             | 5039   |
 | HentaiRead           |            | Broken   |                 |        |
 | HitomiLa             | 24.06.2019 | OK       | 1               | 476735 |
 | HoduComics           |            | Broken   |                 |        |
