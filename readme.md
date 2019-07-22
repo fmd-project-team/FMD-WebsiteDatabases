@@ -234,7 +234,7 @@ Otherwise the request may be declined until you update the list.
 | RawQV                | 16.06.2019 | OK       | 1               | 1581   |
 | RawSenManga          | 16.06.2019 | OK       | 1               | 2360   |
 | ReadComicBooksOnline |            | Broken   |                 |        |
-| ReadComicOnline      | 09.06.2019 | OK       | 337             | 16811  |
+| ReadComicOnline      | 09.06.2019 | OK       | 345             | 17209  |
 | ReadComicsOnlineRU   | 16.06.2019 | OK       | 1               | 2507   |
 | ReadHentaiManga      | 16.06.2019 | OK       | 422             | 10121  |
 | ReadMangaEU          |            | Broken   |                 |        |
