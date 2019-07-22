@@ -4,6 +4,7 @@ Otherwise the request may be declined until you update the list.
   
 | Website              | Updated    | Status   | Directory pages | Manga  |
 |:---------------------|:----------:|:--------:|:---------------:|:------:|
+| 11Toon               | 22.07.2019 | OK       | 20              | 800    |
 | 3asq                 | 09.06.2019 | OK       |                 | 190    |
 | 3asqOrg              | 09.06.2019 | OK       |                 | 74     |
 | 9hentai              | 09.06.2019 | OK       | 3167            | 56938  |
@@ -87,6 +88,7 @@ Otherwise the request may be declined until you update the list.
 | KissManga            | 21.07.2019 | OK       | 336             | 16424  |
 | KlikManga            | 21.07.2019 | OK       |                 | 1924   |
 | KnightNoFansub       | 09.06.2019 | OK       |                 | 10     |
+| KoMBatch             | 22.07.2019 | OK       | 1               | 203    |
 | KomikAV              | 19.07.2019 | OK       | 1               | 1322   |
 | KomikCast            | 21.07.2019 | OK       | 1               | 2220   |
 | KomikGo              | 21.07.2019 | OK       |                 | 2612   |
@@ -157,6 +159,7 @@ Otherwise the request may be declined until you update the list.
 | MangaParkCom         | 15.06.2019 | OK       | 1851            | 10000  |
 | MangaParkNet         | 15.06.2019 | OK       | 1851            | 10000  |
 | MangaParkOrg         | 16.06.2019 | OK       | 557             | 33398  |
+| MangaPus             | 22.07.2019 | OK       | 1               | 1887   |
 | MangaRawOnline       |            | Broken   |                 |        |
 | MangaReader          | 14.06.2019 | OK       | 1               | 5032   |
 | MangaReaderSite      | 15.06.2019 | OK       | 167             | 5010   |
@@ -199,6 +202,7 @@ Otherwise the request may be declined until you update the list.
 | NetTruyen            | 15.06.2019 | OK       | 440             | 15835  |
 | NeuManga             | 21.07.2019 | OK       | 1               | 1414   |
 | NewType              | 21.06.2019 | OK       | 1               | 79     |
+| Ngomik               | 22.07.2019 | OK       | 1               | 1930   |
 | NHentai              |            | Blocked  | 10952           |        |
 | NiAdd                |            | Broken   |                 |        |
 | Nightow              |            | Broken   |                 |        |
