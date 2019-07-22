@@ -16,7 +16,7 @@ Otherwise the request may be declined until you update the list.
 | AtelierDuNoir        |            | Broken   |                 |        |
 | Authrone             | 10.06.2019 | OK       | 294             | 9366   |
 | AzoraManga           | 25.06.2019 | OK       | 3               | 131    |
-| BacaManga            |            | Broken   |                 |        |
+| BacaManga            | 21.07.2019 | OK       | 1               | 2618   |
 | Batoto               | 10.06.2019 | OK       | 527             | 31561  |
 | BlogTruyen           |            | Broken   |                 |        |
 | BoredomSociety       | 10.06.2019 | OK       | 3               | 28     |
@@ -27,7 +27,7 @@ Otherwise the request may be declined until you update the list.
 | ChibiManga           | 10.06.2019 | OK       | 3               | 124    |
 | ComicExtra           | 09.06.2019 | OK       |                 | 16603  |
 | Comico               |            | Broken   |                 |        |
-| ComicoCoID           | 10.06.2019 | OK       | 2               | 385    |
+| ComicoCoID           | 21.07.2019 | OK       |                 | 299    |
 | ComicVn              | 10.06.2019 | OK       | 20              | 480    |
 | CoYuHi               |            | Broken   |                 |        |
 | DarkskyProjects      |            | Broken   |                 |        |
@@ -79,27 +79,27 @@ Otherwise the request may be declined until you update the list.
 | Jaiminisbox          | 11.07.2019 | OK       |                 | 106    |
 | Japscan              | 12.06.2019 | OK       | 27              | 2822   |
 | JokerFansub          |            | Broken   |                 |        |
-| KazeManga            | 12.06.2019 | OK       | 1               | 1000   |
+| KazeManga            | 21.07.2019 | OK       | 1               | 558    |
 | KireiCake            | 11.07.2019 | OK       |                 | 87     |
 | KirishimaFansub      | 12.06.2019 | OK       | 5               | 104    |
-| Kiryuu               | 11.06.2019 | OK       |                 | 2210   |
+| Kiryuu               | 21.07.2019 | OK       | 1               | 2304   |
 | KissDoujin           |            | Broken   |                 |        |
-| KissManga            | 10.06.2019 | OK       |                 | 16157  |
-| KlikManga            | 09.06.2019 | OK       |                 | 1599   |
+| KissManga            | 21.07.2019 | OK       | 336             | 16424  |
+| KlikManga            | 21.07.2019 | OK       |                 | 1924   |
 | KnightNoFansub       | 09.06.2019 | OK       |                 | 10     |
 | KomikAV              | 19.07.2019 | OK       | 1               | 1322   |
-| KomikCast            | 09.06.2019 | OK       |                 | 2124   |
-| KomikGo              | 11.06.2019 | OK       |                 | 2533   |
-| KomikGue             | 10.06.2019 | OK       |                 | 607    |
-| Komikid              | 10.06.2019 | OK       |                 | 700    |
-| KomikIndo            | 10.06.2019 | OK       |                 | 2006   |
-| KomikIndoWebId       | 10.06.2019 | OK       |                 | 595    |
-| KomikMama            | 09.06.2019 | OK       |                 | 719    |
-| KomikManga           | 11.06.2019 | OK       |                 | 1463   |
-| KomikStation         | 10.06.2019 | OK       |                 | 1272   |
-| Komiku               | 10.06.2019 | OK       |                 | 644    |
+| KomikCast            | 21.07.2019 | OK       | 1               | 2220   |
+| KomikGo              | 21.07.2019 | OK       |                 | 2612   |
+| KomikGue             | 21.07.2019 | OK       | 21              | 607    |
+| Komikid              | 21.07.2019 | OK       | 1               | 700    |
+| KomikIndo            | 21.07.2019 | OK       | 1               | 2006   |
+| KomikIndoWebId       | 21.07.2019 | OK       | 1               | 710    |
+| KomikMama            | 21.07.2019 | OK       | 1               | 708    |
+| KomikManga           | 21.07.2019 | OK       | 1               | 1593   |
+| KomikStation         | 21.07.2019 | OK       | 1               | 1276   |
+| Komiku               | 21.07.2019 | OK       | 1               | 967    |
 | KuManga              | 09.06.2019 | OK       |                 | 2672   |
-| Kyuroku              | 14.06.2019 | OK       | 1               | 1446   |
+| Kyuroku              | 21.07.2019 | OK       | 1               | 1550   |
 | LeitorNet            | 13.06.2019 | OK       | 1               | 30     |
 | LeoManga             | 09.06.2019 | OK       |                 | 575    |
 | LetItGoScans         | 11.07.2019 | OK       |                 | 24     |
@@ -109,12 +109,12 @@ Otherwise the request may be declined until you update the list.
 | LoliVault            | 13.06.2019 | OK       | 4               | 92     |
 | Luscious             |            | Broken   |                 |        |
 | Madokami             |            | No Login |                 |        |
-| MaidMangaID          | 25.06.2019 | OK       | 1               | 396    |
+| MaidMangaID          | 21.07.2019 | OK       | 1               | 401    |
 | Manga99              | 13.06.2019 | OK       | 99              | 1833   |
 | MangaAe              | 13.06.2019 | OK       | 108             | 5160   |
 | MangaBB              |            | Broken   |                 |        |
-| Mangacan             | 09.06.2019 | OK       |                 | 913    |
-| MangaCeng            | 10.06.2019 | OK       |                 | 23     |
+| Mangacan             | 21.07.2019 | OK       | 1               | 933    |
+| MangaCeng            | 10.06.2019 | OK       | 1               | 37     |
 | MangaChanRU          | 09.06.2019 | OK       | 800             | 15988  |
 | MangaDeep            | 13.06.2019 | OK       | 63              | 1253   |
 | MangaDenizi          | 13.06.2019 | OK       | 1               | 79     |
@@ -130,21 +130,21 @@ Otherwise the request may be declined until you update the list.
 | MangaFull            | 09.06.2019 | OK       | 1               | 42     |
 | MangaGo              |            | Broken   |                 |        |
 | MangaHasu            | 14.06.2019 | OK       | 908             | 27215  |
-| MangaHere            | 14.06.2019 | OK       | 1               | 25397  |
+| MangaHere            | 21.07.2019 | OK       | 1               | 25700  |
 | MangaHereFun         | 14.06.2019 | OK       | 669             | 20070  |
 | MangaHispano         | 14.06.2019 | OK       | 1               | 13     |
 | MangaHome            | 14.06.2019 | OK       | 1               | 40     |
 | MangaHubIO           | 14.06.2019 | OK       | 847             | 25409  |
 | MangaHubRU           | 14.06.2019 | OK       | 1               | 48     |
 | MangaichiScan        |            | Broken   |                 |        |
-| MangaIndo            | 09.06.2019 | OK       | 1               | 2078   |
-| MangaIndoNet         | 09.06.2019 | OK       | 1               | 1801   |
+| MangaIndo            | 21.07.2019 | OK       | 1               | 2185   |
+| MangaIndoNet         | 21.07.2019 | OK       | 1               | 1801   |
 | MangaInn             | 14.06.2019 | OK       | 27              | 15634  |
 | MangaKakalot         | 08.06.2019 | OK       |                 | 19907  |
 | MangaKakalotFun      | 14.06.2019 | OK       | 774             | 23220  |
-| MangaKid             | 30.06.2019 | OK       | 1               | 2558   |
-| MangaKita            | 14.06.2019 | OK       | 1               | 265    |
-| MangaKu              | 14.06.2019 | OK       | 1               | 517    |
+| MangaKid             | 21.07.2019 | OK       | 1               | 2597   |
+| MangaKita            | 21.07.2019 | OK       | 1               | 267    |
+| MangaKu              | 21.07.2019 | OK       | 1               | 547    |
 | MangaLib             |            | Broken   |                 |        |
 | MangaLife            | 11.07.2019 | OK       | 1               | 4631   |
 | MangaLike            | 09.06.2019 | OK       | 1               | 2620   |
@@ -165,23 +165,23 @@ Otherwise the request may be declined until you update the list.
 | MangaRussia          | 15.06.2019 | OK       | 27              | 15733  |
 | MangAs               |            | Broken   |                 |        |
 | MangaSail            | 09.06.2019 | OK       | 240             | 3677   |
-| MangaSee             | 10.06.2019 | OK       |                 | 4601   |
-| MangaShiro           | 10.06.2019 | OK       |                 | 1481   |
+| MangaSee             | 21.07.2019 | OK       | 1               | 4650   |
+| MangaShiro           | 21.07.2019 | OK       | 1               | 1515   |
 | MangaShow            |            | Broken   |                 |        |
 | MangaStream          | 14.06.2019 | OK       | 1               | 109    |
 | Mangasubes           | 14.06.2019 | OK       | 1               | 8      |
 | MangaTail            | 15.06.2019 | OK       | 246             | 3690   |
 | MangaToon            | 11.07.2019 | OK       |                 | 426    |
-| MangaToonCN          | 11.06.2019 | OK       |                 | 360    |
-| MangaToonID          | 10.06.2019 | OK       |                 | 360    |
-| MangaToonSP          | 11.06.2019 | OK       |                 | 259    |
-| MangaToonVI          | 11.06.2019 | OK       |                 | 360    |
+| MangaToonCN          | 21.07.2019 | OK       |                 | 360    |
+| MangaToonID          | 21.07.2019 | OK       |                 | 360    |
+| MangaToonSP          | 21.07.2019 | OK       |                 | 360    |
+| MangaToonVI          | 21.07.2019 | OK       |                 | 352    |
 | MangaTown            | 15.06.2019 | OK       | 628             | 22599  |
 | Manga-Tr             | 09.06.2019 | OK       | 1               | 5122   |
 | MangaTube            | 15.06.2019 | OK       | 48              | 503    |
 | MangaVadisi          | 15.06.2019 | OK       | 1               | 29     |
 | MangaWindow          | 15.06.2019 | OK       | 1166            | 69937  |
-| MangaYosh            | 15.06.2019 | OK       | 40              | 3301   |
+| MangaYosh            | 21.07.2019 | OK       | 138             | 3303   |
 | MangaZuki            | 15.06.2019 | OK       | 1               | 5      |
 | MangaZukiOnline      | 15.06.2019 | OK       | 4               | 276    |
 | MangaZukiRaws        | 15.06.2019 | OK       | 2               | 39     |
@@ -189,7 +189,7 @@ Otherwise the request may be declined until you update the list.
 | ManHuaTai            |            | Broken   |                 |        |
 | ManhwaCo             | 15.06.2019 | OK       | 1               | 15     |
 | ManhwaHand           | 15.06.2019 | OK       | 3               | 151    |
-| ManyToon             | 09.06.2019 | OK       | 3               | 118    |
+| ManyToon             | 21.07.2019 | OK       |                 | 147    |
 | MenudoFansub         | 15.06.2019 | OK       | 5               | 101    |
 | MerakiScans          | 11.07.2019 | OK       | 1               | 37     |
 | Mexat                | 15.06.2019 | OK       | 1               | 283    |
@@ -197,9 +197,9 @@ Otherwise the request may be declined until you update the list.
 | MyReadingManga       | 15.06.2019 | OK       | 1713            | 34250  |
 | NeoProjectScan       |            | Broken   |                 |        |
 | NetTruyen            | 15.06.2019 | OK       | 440             | 15835  |
-| NeuManga             | 10.06.2019 | OK       |                 | 1315   |
+| NeuManga             | 21.07.2019 | OK       | 1               | 1414   |
 | NewType              | 21.06.2019 | OK       | 1               | 79     |
-| NHentai              |            | Blocked  | 10822           |        |
+| NHentai              |            | Blocked  | 10952           |        |
 | NiAdd                |            | Broken   |                 |        |
 | Nightow              |            | Broken   |                 |        |
 | NineManga            | 16.06.2019 | OK       | 1200            | 31286  |
@@ -211,10 +211,10 @@ Otherwise the request may be declined until you update the list.
 | NinjaScans           | 19.06.2019 | OK       | 2               | 16     |
 | NoraNoFansub         | 16.06.2019 | OK       | 3               | 69     |
 | OneTimeScans         | 16.06.2019 | OK       | 2               | 33     |
-| OtakuIndo            | 09.06.2019 | OK       | 1               | 626    |
+| OtakuIndo            | 21.07.2019 | OK       | 1               | 631    |
 | PatyScans            | 16.06.2019 | OK       | 6               | 130    |
 | PCNet                | 16.06.2019 | OK       | 1               | 12     |
-| PecintaKomik         | 09.06.2019 | OK       | 1               | 1985   |
+| PecintaKomik         | 21.07.2019 | OK       | 1               | 2072   |
 | PervEden             | 09.06.2019 | OK       | 14              | 1311   |
 | PervEden_IT          | 09.06.2019 | OK       | 2               | 175    |
 | PhoenixSerenade      | 16.06.2019 | OK       | 2               | 29     |
@@ -273,7 +273,7 @@ Otherwise the request may be declined until you update the list.
 | TimelessLeaf         | 17.06.2019 | OK       | 1               | 21     |
 | TMOHentai            | 17.06.2019 | OK       | 600             | 15143  |
 | TonariNoYoungJump    | 09.06.2019 | OK       | 3               | 85     |
-| Toonily              | 09.06.2019 | OK       | 2               | 25     |
+| Toonily              | 21.07.2019 | OK       | 4               | 44     |
 | Toonkor              | 17.06.2019 | OK       | 1               | 1393   |
 | TrashScanlations     |            | Broken   |                 |        |
 | TrueColorsScan       | 17.06.2019 | OK       | 1               | 10     |
@@ -288,7 +288,7 @@ Otherwise the request may be declined until you update the list.
 | VortexScans          | 17.06.2019 | OK       | 3               | 64     |
 | WebToons             |            | Broken   |                 |        |
 | WebtoonTr            |            | Broken   |                 |        |
-| WestManga            | 10.06.2019 | OK       |                 | 671    |
+| WestManga            | 21.07.2019 | OK       | 1               | 685    |
 | WhiteCloudPavilion   | 17.06.2019 | OK       | 1               | 15     |
 | WieManga             | 17.06.2019 | OK       | 27              | 604    |
 | WorldThree           | 17.06.2019 | OK       | 2               | 26     |
