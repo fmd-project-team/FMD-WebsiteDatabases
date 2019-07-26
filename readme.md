@@ -303,4 +303,4 @@ Otherwise the request may be declined until you update the list.
 | Yuri-ism             | 17.06.2019 | OK       | 4               | 78     |
 | ZeroScans            | 17.06.2019 | OK       | 2               | 45     |
 | ZinManga             | 09.06.2019 | OK       | 2               | 33     |
-| ZManga               | 17.06.2019 | OK       | 2               | 21     |
+| ZManga               | 26.07.2019 | OK       | 2               | 16     |
