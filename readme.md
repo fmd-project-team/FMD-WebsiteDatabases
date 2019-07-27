@@ -105,7 +105,8 @@ Otherwise the request may be declined until you update the list.
 | LeitorNet            | 13.06.2019 | OK       | 1               | 30     |
 | LeoManga             | 09.06.2019 | OK       |                 | 575    |
 | LetItGoScans         | 11.07.2019 | OK       |                 | 24     |
-| LeviatanScans        | 09.06.2019 | OK       |                 | 14     |
+| LeviatanScans        | 27.07.2019 | OK       | 1               | 6      |
+| LeviatanScansEN      | 27.07.2019 | OK       | 1               | 8      |
 | Lhscans              | 13.06.2019 | OK       | 1               | 2339   |
 | LHTranslation        | 22.07.2019 | OK       |                 | 95     |
 | LoliVault            | 13.06.2019 | OK       | 4               | 92     |
