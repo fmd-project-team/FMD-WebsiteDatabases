@@ -227,7 +227,7 @@ Otherwise the request may be declined until you update the list.
 | PocketAngelScan      |            | Broken   |                 |        |
 | PornComix            | 16.06.2019 | OK       | 1139            | 16126  |
 | PowerManga           |            | Broken   |                 |        |
-| PsychoPlay           | 08.06.2019 | OK       |                 | 30     |
+| PsychoPlay           | 27.07.2019 | OK       | 2               | 29     |
 | Pururin              |            | Broken   |                 |        |
 | Puzzmos              |            | Broken   |                 |        |
 | Pzykosis666HFansub   | 16.06.2019 | OK       | 3               | 69     |
