@@ -100,7 +100,7 @@ Otherwise the request may be declined until you update the list.
 | KomikManga           | 21.07.2019 | OK       | 1               | 1593   |
 | KomikStation         | 21.07.2019 | OK       | 1               | 1276   |
 | Komiku               | 21.07.2019 | OK       | 1               | 967    |
-| KuManga              | 09.06.2019 | OK       |                 | 2672   |
+| KuManga              | 28.07.2019 | OK       | 157             | 2796   |
 | Kyuroku              | 21.07.2019 | OK       | 1               | 1550   |
 | LeitorNet            | 13.06.2019 | OK       | 1               | 30     |
 | LeoManga             | 09.06.2019 | OK       |                 | 575    |
@@ -175,6 +175,7 @@ Otherwise the request may be declined until you update the list.
 | MangaStream          | 14.06.2019 | OK       | 1               | 109    |
 | Mangasubes           | 14.06.2019 | OK       | 1               | 8      |
 | MangaTail            | 15.06.2019 | OK       | 246             | 3690   |
+| MangaTensei          | 31.07.2019 | OK       | 529             | 31698  |
 | MangaToon            | 22.07.2019 | OK       | 20              | 438    |
 | MangaToonCN          | 21.07.2019 | OK       |                 | 360    |
 | MangaToonID          | 21.07.2019 | OK       |                 | 360    |
