@@ -30,9 +30,9 @@ Otherwise the request may be declined until you update the list.
 | Comico               |            | Broken   |                 |        |
 | ComicoCoID           | 21.07.2019 | OK       |                 | 299    |
 | ComicVn              | 10.06.2019 | OK       | 20              | 480    |
-| CoYuHi               |            | Broken   |                 |        |
-| DarkskyProjects      |            | Broken   |                 |        |
-| DarkSkyScan          |            | Broken   |                 |        |
+| CopyPasteScanlation  | 31.07.2019 | OK       |                 | 11     |
+| CoYuHi               | 31.07.2019 | OK       | 1               | 156    |
+| DarkskyProjects      | 31.07.2019 | OK       | 2               | 19     |
 | DeathTollScans       | 10.06.2019 | OK       | 2               | 42     |
 | DesuMe               | 10.06.2019 | OK       | 81              | 1933   |
 | DigitalTeam          | 11.06.2019 | OK       | 1               | 46     |
@@ -216,6 +216,7 @@ Otherwise the request may be declined until you update the list.
 | NineMangaRU          | 17.06.2019 | OK       | 654             | 16838  |
 | NinjaScans           | 19.06.2019 | OK       | 2               | 16     |
 | NoraNoFansub         | 16.06.2019 | OK       | 3               | 69     |
+| OneShotScans         | 31.07.2019 | OK       |                 | 5      |
 | OneTimeScans         | 16.06.2019 | OK       | 2               | 33     |
 | OtakuIndo            | 21.07.2019 | OK       | 1               | 631    |
 | PatyScans            | 16.06.2019 | OK       | 6               | 130    |
@@ -289,7 +290,7 @@ Otherwise the request may be declined until you update the list.
 | Tumangaonline        | 09.06.2019 | Blocked  | 735             | 17635  |
 | Turkcraft            |            | Broken   |                 |        |
 | TwistedHelScans      |            | Broken   |                 |        |
-| UnionMangas          |            | Broken   |                 |        |
+| UnionMangas          | 31.07.2019 | OK       | 183             | 7293   |
 | VnSharing            |            | Broken   |                 |        |
 | VortexScans          | 17.06.2019 | OK       | 3               | 64     |
 | WebToons             |            | Broken   |                 |        |
