@@ -25,7 +25,7 @@ Otherwise the request may be declined until you update the list.
 | BunnysScans           | 10.06.2019 | OK           | 2               | 36        |
 | CanisMajorScans       | 10.06.2019 | OK           | 3               | 58        |
 | CentralDeMangas       | 10.06.2019 | OK           | 70              | 3476      |
-| ChampionScans         | 22.07.2019 | OK           | 2               | 24        |
+| ChampionScans         | 22.07.2019 | Obsolete     | 2               | 24        |
 | ChibiManga            | 10.06.2019 | OK           | 3               | 124       |
 | ComicExtra            | 09.06.2019 | OK           | 1               | 16603     |
 | Comico                |            | None         | 0               | 0         |
@@ -132,7 +132,7 @@ Otherwise the request may be declined until you update the list.
 | MangaEden_IT          | 09.06.2019 | OK           | 21              | 2090      |
 | Mangaf                |            | None         | 0               | 0         |
 | MangaFox              | 14.06.2019 | OK           | 345             | 24054     |
-| MangaFoxFun           |            | Running      | 712             | 21360     |
+| MangaFoxFun           | 03.08.2019 | OK           | 712             | 21360     |
 | MangaFreak            | 03.08.2019 | OK           | 288             | 5168      |
 | MangaFull             | 09.06.2019 | OK           | 1               | 42        |
 | MangaGo               |            | None         | 0               | 0         |
@@ -295,7 +295,7 @@ Otherwise the request may be declined until you update the list.
 | TruyenChon            | 18.06.2019 | OK           | 331             | 15860     |
 | TruyenTranhTuan       | 17.06.2019 | OK           | 25              | 953       |
 | Tsumino               | 18.06.2019 | OK           | 1001            | 36031     |
-| Tumangaonline         | 09.06.2019 | Obsolete     | 735             | 17635     |
+| Tumangaonline         | 09.06.2019 | Running      | 735             | 17635     |
 | Turkcraft             |            | None         | 0               | 0         |
 | TwistedHelScans       |            | None         | 0               | 0         |
 | UnionMangas           | 31.07.2019 | OK           | 183             | 7293      |
