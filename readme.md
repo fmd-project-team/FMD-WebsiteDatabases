@@ -41,7 +41,7 @@ Otherwise the request may be declined until you update the list.
 | DM5                   | 12.06.2019 | OK           | 369             | 36309     |
 | DokiFansubs           | 11.06.2019 | OK           | 4               | 72        |
 | DoujinsCom            | 12.06.2019 | OK           | 143             | 12749     |
-| DoujinYosh            | 11.06.2019 | OK           | 18              | 1688      |
+| DoujinYosh            | 03.08.2019 | OK           | 19              | 1773      |
 | DynastyScans          | 11.06.2019 | OK           | 4               | 2015      |
 | EGScans               | 11.06.2019 | OK           | 1               | 200       |
 | E-Hentai              |            | Blocked      | 18518           | 0         |
@@ -295,7 +295,7 @@ Otherwise the request may be declined until you update the list.
 | TruyenChon            | 18.06.2019 | OK           | 331             | 15860     |
 | TruyenTranhTuan       | 17.06.2019 | OK           | 25              | 953       |
 | Tsumino               | 18.06.2019 | OK           | 1001            | 36031     |
-| Tumangaonline         | 09.06.2019 | Running      | 735             | 17635     |
+| Tumangaonline         | 09.06.2019 | Blocked      | 735             | 17635     |
 | Turkcraft             |            | None         | 0               | 0         |
 | TwistedHelScans       |            | None         | 0               | 0         |
 | UnionMangas           | 31.07.2019 | OK           | 183             | 7293      |
