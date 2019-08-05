@@ -106,7 +106,7 @@ Otherwise the request may be declined until you update the list.
 | KuManga               | 28.07.2019 | OK           | 157             | 2796      |
 | Kyuroku               | 21.07.2019 | OK           | 1               | 1550      |
 | LeitorNet             | 13.06.2019 | OK           | 1               | 30        |
-| LeoManga              | 09.06.2019 | OK           | 1               | 575       |
+| LeoManga              | 05.08.2019 | OK           | 1               | 1022      |
 | LetItGoScans          | 11.07.2019 | OK           | 3               | 24        |
 | LeviatanScans         | 27.07.2019 | OK           | 1               | 6         |
 | LeviatanScansEN       | 27.07.2019 | OK           | 1               | 8         |
@@ -167,6 +167,7 @@ Otherwise the request may be declined until you update the list.
 | MangaPus              | 22.07.2019 | OK           | 1               | 1887      |
 | MangaRawOnline        |            | None         | 0               | 0         |
 | MangaReader           | 14.06.2019 | OK           | 1               | 5032      |
+| MangaReaderOnline     | 05.08.2019 | OK           | 1               | 92        |
 | MangaReaderSite       | 15.06.2019 | OK           | 167             | 5010      |
 | MangaRock             | 22.07.2019 | OK           | 1               | 21640     |
 | MangaRoom             |            | None         | 0               | 0         |
@@ -248,7 +249,7 @@ Otherwise the request may be declined until you update the list.
 | RawSenManga           | 16.06.2019 | OK           | 1               | 2360      |
 | ReadComicBooksOnline  |            | None         | 0               | 0         |
 | ReadComicOnline       | 09.06.2019 | OK           | 345             | 17209     |
-| ReadComicsOnlineRU    | 16.06.2019 | OK           | 1               | 2507      |
+| ReadComicsOnlineRU    | 05.08.2019 | OK           | 1               | 2615      |
 | ReadHentaiManga       | 16.06.2019 | OK           | 422             | 10121     |
 | ReadMangaEU           |            | None         | 0               | 0         |
 | ReadMangaRU           | 16.06.2019 | Broken       | 1               | 70        |
@@ -315,4 +316,4 @@ Otherwise the request may be declined until you update the list.
 | Yuri-ism              | 17.06.2019 | OK           | 4               | 78        |
 | ZeroScans             | 17.06.2019 | OK           | 2               | 45        |
 | ZinManga              | 09.06.2019 | OK           | 2               | 33        |
-| ZManga                | 26.07.2019 | OK           | 2               | 16        |
+| ZManga                | 05.08.2019 | OK           | 1               | 16        |
