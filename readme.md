@@ -137,6 +137,7 @@ Otherwise the request may be declined until you update the list.
 | MangaFull             | 09.06.2019 | OK           | 1               | 42        |
 | MangaGo               |            | None         | 0               | 0         |
 | MangaHasu             | 14.06.2019 | OK           | 908             | 27215     |
+| MangaHato             |            | Running      | 0               | 0         |
 | MangaHere             | 21.07.2019 | OK           | 1               | 25700     |
 | MangaHereFun          | 14.06.2019 | OK           | 669             | 20070     |
 | MangaHispano          | 14.06.2019 | OK           | 1               | 13        |
@@ -190,6 +191,7 @@ Otherwise the request may be declined until you update the list.
 | Manga-Tr              | 09.06.2019 | OK           | 1               | 5122      |
 | MangaTube             | 15.06.2019 | OK           | 48              | 503       |
 | MangaVadisi           | 15.06.2019 | OK           | 1               | 29        |
+| MangaWeek             |            | Running      | 0               | 0         |
 | MangaWindow           | 15.06.2019 | Obsolete     | 1166            | 69937     |
 | MangaYosh             | 21.07.2019 | Broken       | 138             | 3303      |
 | MangaZuki             | 15.06.2019 | OK           | 1               | 5         |
@@ -200,6 +202,7 @@ Otherwise the request may be declined until you update the list.
 | ManhwaCo              | 15.06.2019 | OK           | 1               | 15        |
 | ManhwaHand            | 15.06.2019 | OK           | 3               | 151       |
 | ManhwaHentai          |            | None         | 0               | 0         |
+| ManhwaScan            |            | Running      | 0               | 0         |
 | ManyToon              | 21.07.2019 | OK           | 3               | 147       |
 | MenudoFansub          | 15.06.2019 | OK           | 5               | 101       |
 | MerakiScans           | 22.07.2019 | OK           | 1               | 38        |
@@ -244,8 +247,8 @@ Otherwise the request may be declined until you update the list.
 | RawMangaSite          | 16.06.2019 | OK           | 1               | 28        |
 | RawMangaUpdate        | 16.06.2019 | OK           | 1               | 266       |
 | RawNeko               |            | None         | 0               | 0         |
-| RawQQ                 | 09.06.2019 | OK           | 1               | 2797      |
-| RawQV                 | 16.06.2019 | OK           | 1               | 1581      |
+| RawQQ                 | 09.06.2019 | Removed      | 1               | 2797      |
+| RawQV                 | 16.06.2019 | Removed      | 1               | 1581      |
 | RawSenManga           | 16.06.2019 | OK           | 1               | 2360      |
 | ReadComicBooksOnline  |            | None         | 0               | 0         |
 | ReadComicOnline       | 09.06.2019 | OK           | 345             | 17209     |
