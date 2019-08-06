@@ -137,7 +137,7 @@ Otherwise the request may be declined until you update the list.
 | MangaFull             | 09.06.2019 | OK           | 1               | 42        |
 | MangaGo               |            | None         | 0               | 0         |
 | MangaHasu             | 14.06.2019 | OK           | 908             | 27215     |
-| MangaHato             |            | Running      | 0               | 0         |
+| MangaHato             | 06.08.2019 | OK           | 1               | 1672      |
 | MangaHere             | 21.07.2019 | OK           | 1               | 25700     |
 | MangaHereFun          | 14.06.2019 | OK           | 669             | 20070     |
 | MangaHispano          | 14.06.2019 | OK           | 1               | 13        |
@@ -191,7 +191,7 @@ Otherwise the request may be declined until you update the list.
 | Manga-Tr              | 09.06.2019 | OK           | 1               | 5122      |
 | MangaTube             | 15.06.2019 | OK           | 48              | 503       |
 | MangaVadisi           | 15.06.2019 | OK           | 1               | 29        |
-| MangaWeek             |            | Running      | 0               | 0         |
+| MangaWeek             | 06.08.2019 | OK           | 1               | 23992     |
 | MangaWindow           | 15.06.2019 | Obsolete     | 1166            | 69937     |
 | MangaYosh             | 21.07.2019 | Broken       | 138             | 3303      |
 | MangaZuki             | 15.06.2019 | OK           | 1               | 5         |
@@ -202,7 +202,7 @@ Otherwise the request may be declined until you update the list.
 | ManhwaCo              | 15.06.2019 | OK           | 1               | 15        |
 | ManhwaHand            | 15.06.2019 | OK           | 3               | 151       |
 | ManhwaHentai          |            | None         | 0               | 0         |
-| ManhwaScan            |            | Running      | 0               | 0         |
+| ManhwaScan            | 06.08.2019 | OK           | 1               | 439       |
 | ManyToon              | 21.07.2019 | OK           | 3               | 147       |
 | MenudoFansub          | 15.06.2019 | OK           | 5               | 101       |
 | MerakiScans           | 22.07.2019 | OK           | 1               | 38        |
