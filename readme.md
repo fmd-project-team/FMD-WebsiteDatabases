@@ -25,7 +25,7 @@ Otherwise the request may be declined until you update the list.
 | BunnysScans           | 10.06.2019 | OK           | 2               | 36        |
 | CanisMajorScans       | 10.06.2019 | OK           | 3               | 58        |
 | CentralDeMangas       | 10.06.2019 | OK           | 70              | 3476      |
-| ChampionScans         | 22.07.2019 | Obsolete     | 2               | 24        |
+| ChampionScans         | 08.08.2019 | OK           | 2               | 24        |
 | ChibiManga            | 10.06.2019 | OK           | 3               | 124       |
 | ComicExtra            | 09.06.2019 | OK           | 1               | 16603     |
 | Comico                |            | None         | 0               | 0         |
