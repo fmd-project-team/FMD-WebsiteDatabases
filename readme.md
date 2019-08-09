@@ -90,7 +90,7 @@ Otherwise the request may be declined until you update the list.
 | KissDoujin            |            | None         | 0               | 0         |
 | KissManga             | 21.07.2019 | OK           | 336             | 16424     |
 | KlikManga             | 21.07.2019 | OK           | 21              | 1924      |
-| KnightNoFansub        | 09.06.2019 | OK           | 1               | 10        |
+| KnightNoFansub        | 09.08.2019 | OK           | 2               | 12        |
 | KoMBatch              | 22.07.2019 | OK           | 1               | 203       |
 | KomikAV               | 19.07.2019 | OK           | 1               | 1322      |
 | KomikCast             | 21.07.2019 | OK           | 1               | 2220      |
