@@ -48,7 +48,7 @@ Otherwise the request may be declined until you update the list.
 | EvilFlowers           | 11.06.2019 | OK           | 8               | 176       |
 | ExHentai              |            | None         | 0               | 0         |
 | EyeOnManga            |            | None         | 0               | 0         |
-| FallenAngelsScans     | 11.07.2019 | OK           | 1               | 53        |
+| FallenAngelsScans     | 09.08.2019 | OK           | 1               | 54        |
 | ForgottenScans        | 11.06.2019 | OK           | 2               | 29        |
 | FujoshiBitches        | 11.06.2019 | OK           | 6               | 148       |
 | FunManga              | 12.06.2019 | OK           | 27              | 16011     |
@@ -57,7 +57,7 @@ Otherwise the request may be declined until you update the list.
 | GoodManga             |            | None         | 0               | 0         |
 | HamTruyen             | 12.06.2019 | OK           | 130             | 8605      |
 | HanaScan              | 18.06.2019 | OK           | 1               | 2805      |
-| HatigarmScans         | 11.07.2019 | OK           | 1               | 51        |
+| HatigarmScans         | 09.08.2019 | OK           | 1               | 52        |
 | HeavenManga           | 12.06.2019 | OK           | 223             | 6673      |
 | HelveticaScans        | 12.06.2019 | OK           | 2               | 28        |
 | Hentai2Read           | 12.06.2019 | OK           | 530             | 25424     |
@@ -80,11 +80,11 @@ Otherwise the request may be declined until you update the list.
 | InManga               | 12.06.2019 | OK           | 1               | 5274      |
 | IsekaiRaw             | 09.06.2019 | OK           | 1               | 1151      |
 | IsekaiScan            | 09.06.2019 | OK           | 15              | 980       |
-| Jaiminisbox           | 22.07.2019 | OK           | 5               | 113       |
+| Jaiminisbox           | 09.08.2019 | OK           | 5               | 115       |
 | Japscan               | 12.06.2019 | OK           | 27              | 2822      |
 | JokerFansub           |            | None         | 0               | 0         |
 | KazeManga             | 21.07.2019 | OK           | 1               | 558       |
-| KireiCake             | 11.07.2019 | OK           | 4               | 87        |
+| KireiCake             | 09.08.2019 | OK           | 4               | 88        |
 | KirishimaFansub       | 12.06.2019 | OK           | 5               | 104       |
 | Kiryuu                | 21.07.2019 | OK           | 1               | 2304      |
 | KissDoujin            |            | None         | 0               | 0         |
@@ -107,11 +107,11 @@ Otherwise the request may be declined until you update the list.
 | Kyuroku               | 21.07.2019 | OK           | 1               | 1550      |
 | LeitorNet             | 13.06.2019 | OK           | 1               | 30        |
 | LeoManga              | 05.08.2019 | OK           | 1               | 1022      |
-| LetItGoScans          | 11.07.2019 | OK           | 3               | 24        |
+| LetItGoScans          | 09.08.2019 | OK           | 3               | 25        |
 | LeviatanScans         | 27.07.2019 | OK           | 1               | 6         |
 | LeviatanScansEN       | 27.07.2019 | OK           | 1               | 8         |
 | Lhscans               | 13.06.2019 | OK           | 1               | 2339      |
-| LHTranslation         | 22.07.2019 | OK           | 1               | 95        |
+| LHTranslation         | 09.08.2019 | OK           | 1               | 98        |
 | LoliVault             | 13.06.2019 | OK           | 4               | 92        |
 | Luscious              |            | None         | 0               | 0         |
 | Madokami              |            | None         | 0               | 0         |
@@ -170,7 +170,7 @@ Otherwise the request may be declined until you update the list.
 | MangaReader           | 14.06.2019 | OK           | 1               | 5032      |
 | MangaReaderOnline     | 05.08.2019 | OK           | 1               | 92        |
 | MangaReaderSite       | 15.06.2019 | OK           | 167             | 5010      |
-| MangaRock             | 22.07.2019 | OK           | 1               | 21640     |
+| MangaRock             | 09.08.2019 | OK           | 38              | 21810     |
 | MangaRoom             |            | None         | 0               | 0         |
 | MangaRussia           | 15.06.2019 | OK           | 27              | 15733     |
 | MangAs                |            | None         | 0               | 0         |
@@ -182,7 +182,7 @@ Otherwise the request may be declined until you update the list.
 | Mangasubes            | 14.06.2019 | OK           | 1               | 8         |
 | MangaTail             | 15.06.2019 | OK           | 246             | 3690      |
 | MangaTensei           | 31.07.2019 | OK           | 529             | 31698     |
-| MangaToon             | 22.07.2019 | OK           | 20              | 438       |
+| MangaToon             | 09.08.2019 | OK           | 20              | 469       |
 | MangaToonCN           | 21.07.2019 | OK           | 20              | 360       |
 | MangaToonID           | 21.07.2019 | OK           | 20              | 360       |
 | MangaToonSP           | 21.07.2019 | OK           | 20              | 360       |
@@ -205,7 +205,7 @@ Otherwise the request may be declined until you update the list.
 | ManhwaScan            | 06.08.2019 | OK           | 1               | 439       |
 | ManyToon              | 21.07.2019 | OK           | 3               | 147       |
 | MenudoFansub          | 15.06.2019 | OK           | 5               | 101       |
-| MerakiScans           | 22.07.2019 | OK           | 1               | 38        |
+| MerakiScans           | 09.08.2019 | OK           | 1               | 39        |
 | Mexat                 | 15.06.2019 | OK           | 1               | 283       |
 | MintMangaRU           | 15.06.2019 | Broken       | 1               | 70        |
 | MyReadingManga        | 15.06.2019 | OK           | 1713            | 34250     |
