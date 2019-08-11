@@ -195,8 +195,9 @@ Otherwise the request may be declined until you update the list.
 | MangaWindow           | 15.06.2019 | Obsolete     | 1166            | 69937     |
 | MangaYosh             | 21.07.2019 | Broken       | 138             | 3303      |
 | MangaZuki             | 15.06.2019 | OK           | 1               | 5         |
-| MangaZukiOnline       | 15.06.2019 | OK           | 4               | 276       |
+| MangaZukiOnline       | 11.08.2019 | OK           | 7               | 525       |
 | MangaZukiRaws         | 15.06.2019 | OK           | 2               | 39        |
+| MangaZukiSite         | 11.08.2019 | OK           | 2               | 66        |
 | ManHuaGui             | 16.06.2019 | OK           | 772             | 32372     |
 | ManHuaTai             |            | None         | 0               | 0         |
 | ManhwaCo              | 15.06.2019 | OK           | 1               | 15        |
