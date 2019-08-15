@@ -228,7 +228,7 @@ Otherwise the request may be declined until you update the list.
 | NoraNoFansub          | 16.06.2019 | OK           | 3               | 69        |
 | OneShotScans          | 31.07.2019 | OK           | 1               | 5         |
 | OneTimeScans          | 16.06.2019 | OK           | 2               | 33        |
-| OtakuIndo             | 21.07.2019 | OK           | 1               | 631       |
+| OtakuIndo             | 21.07.2019 | Removed      | 1               | 631       |
 | PatyScans             | 16.06.2019 | OK           | 6               | 130       |
 | PCNet                 | 16.06.2019 | OK           | 1               | 12        |
 | PecintaKomik          | 21.07.2019 | OK           | 1               | 2072      |
@@ -320,4 +320,4 @@ Otherwise the request may be declined until you update the list.
 | Yuri-ism              | 17.06.2019 | OK           | 4               | 78        |
 | ZeroScans             | 17.06.2019 | OK           | 2               | 45        |
 | ZinManga              | 09.06.2019 | OK           | 2               | 33        |
-| ZManga                | 05.08.2019 | OK           | 1               | 16        |
+| ZManga                | 15.08.2019 | OK           | 2               | 16        |
