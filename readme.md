@@ -202,7 +202,7 @@ Otherwise the request may be declined until you update the list.
 | ManHuaTai             |            | None         | 0               | 0         |
 | ManhwaCo              | 15.06.2019 | OK           | 1               | 15        |
 | ManhwaHand            | 15.06.2019 | OK           | 3               | 151       |
-| ManhwaHentai          |            | None         | 0               | 0         |
+| ManhwaHentai          | 16.08.2019 | OK           | 3               | 156       |
 | ManhwaScan            | 06.08.2019 | OK           | 1               | 439       |
 | ManyToon              | 15.08.2019 | OK           | 3               | 156       |
 | MenudoFansub          | 15.06.2019 | OK           | 5               | 101       |
