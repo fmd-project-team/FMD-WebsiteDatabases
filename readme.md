@@ -84,6 +84,7 @@ Otherwise the request may be declined until you update the list.
 | Japscan               | 12.06.2019 | OK           | 27              | 2822      |
 | JokerFansub           |            | None         | 0               | 0         |
 | KazeManga             | 18.08.2019 | OK           | 1               | 570       |
+| KIDzScan              | 18.08.2019 | OK           | 2               | 16        |
 | KireiCake             | 09.08.2019 | OK           | 4               | 88        |
 | KirishimaFansub       | 12.06.2019 | OK           | 5               | 104       |
 | Kiryuu                | 18.08.2019 | OK           | 1               | 2355      |
