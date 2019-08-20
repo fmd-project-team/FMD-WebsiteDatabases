@@ -196,11 +196,14 @@ Otherwise the request may be declined until you update the list.
 | MangaWindow           | 15.06.2019 | Obsolete     | 1166            | 69937     |
 | MangaYosh             | 18.08.2019 | OK           | 138             | 3304      |
 | MangaZuki             | 15.06.2019 | OK           | 1               | 5         |
+| MangazukiClub         | 20.08.2019 | OK           | 2               | 90        |
+| MangazukiMe           | 20.08.2019 | OK           | 9               | 740       |
 | MangaZukiOnline       | 11.08.2019 | OK           | 7               | 525       |
 | MangaZukiRaws         | 15.06.2019 | OK           | 2               | 39        |
 | MangaZukiSite         | 11.08.2019 | OK           | 2               | 66        |
 | ManHuaGui             | 16.06.2019 | OK           | 772             | 32372     |
 | ManHuaTai             |            | None         | 0               | 0         |
+| ManhwaClub            | 20.08.2019 | OK           | 3               | 189       |
 | ManhwaCo              | 15.06.2019 | OK           | 1               | 15        |
 | ManhwaHand            | 15.06.2019 | OK           | 3               | 151       |
 | ManhwaHentai          | 16.08.2019 | OK           | 3               | 156       |
@@ -317,6 +320,7 @@ Otherwise the request may be declined until you update the list.
 | XAnimeSeduccion       | 17.06.2019 | OK           | 5               | 50        |
 | YaoiChanRU            | 09.06.2019 | OK           | 584             | 11660     |
 | YaoiIsLife            | 17.06.2019 | OK           | 4               | 86        |
+| YoManga               | 20.08.2019 | OK           | 8               | 643       |
 | YoungAceUp            |            | None         | 0               | 0         |
 | Yuri-ism              | 17.06.2019 | OK           | 4               | 78        |
 | ZeroScans             | 17.06.2019 | OK           | 2               | 45        |
