@@ -310,7 +310,7 @@ Otherwise the request may be declined until you update the list.
 | UnionMangas           | 31.07.2019 | OK           | 183             | 7293      |
 | VnSharing             |            | None         | 0               | 0         |
 | VortexScans           | 17.06.2019 | OK           | 3               | 64        |
-| WebToons              |            | None         | 0               | 0         |
+| WebToons              | 21.08.2019 | None         | 0               | 315         |
 | WebtoonTr             |            | None         | 0               | 0         |
 | WestManga             | 18.08.2019 | OK           | 1               | 692       |
 | WhiteCloudPavilion    | 17.06.2019 | OK           | 1               | 15        |
