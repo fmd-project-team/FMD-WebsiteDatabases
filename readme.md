@@ -143,6 +143,7 @@ Otherwise the request may be declined until you update the list.
 | MangaHereFun          | 14.06.2019 | OK           | 669             | 20070     |
 | MangaHispano          | 14.06.2019 | OK           | 1               | 13        |
 | MangaHome             | 14.06.2019 | OK           | 1               | 40        |
+| MangaHost             | 01.09.2019 | OK           | 163             | 6810      |
 | MangaHubIO            | 14.06.2019 | OK           | 847             | 25409     |
 | MangaHubRU            | 14.06.2019 | OK           | 1               | 48        |
 | MangaichiScan         |            | None         | 0               | 0         |
@@ -242,7 +243,7 @@ Otherwise the request may be declined until you update the list.
 | PlotTwistNoFansub     |            | None         | 0               | 0         |
 | PlusComico            |            | None         | 0               | 0         |
 | PocketAngelScan       |            | None         | 0               | 0         |
-| PornComix             | 16.06.2019 | OK           | 1139            | 16126     |
+| PornComix             | 16.06.2019 | Broken       | 1139            | 16126     |
 | PowerManga            | 03.08.2019 | OK           | 1               | 2         |
 | PsychoPlay            | 27.07.2019 | OK           | 2               | 29        |
 | Pururin               |            | None         | 0               | 0         |
@@ -310,7 +311,7 @@ Otherwise the request may be declined until you update the list.
 | UnionMangas           | 31.07.2019 | OK           | 183             | 7293      |
 | VnSharing             |            | None         | 0               | 0         |
 | VortexScans           | 17.06.2019 | OK           | 3               | 64        |
-| WebToons              | 21.08.2019 | None         | 0               | 315         |
+| WebToons              | 21.08.2019 | Broken       | 1               | 315       |
 | WebtoonTr             |            | None         | 0               | 0         |
 | WestManga             | 18.08.2019 | OK           | 1               | 692       |
 | WhiteCloudPavilion    | 17.06.2019 | OK           | 1               | 15        |
