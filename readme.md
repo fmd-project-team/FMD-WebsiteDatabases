@@ -16,7 +16,7 @@ Otherwise the request may be declined until you update the list.
 | AntisenseScans        | 10.06.2019 | OK           | 2               | 48        |
 | AsmHentai             | 01.08.2019 | OK           | 13039           | 260775    |
 | AtelierDuNoir         |            | None         | 0               | 0         |
-| Authrone              | 10.06.2019 | OK           | 294             | 9366      |
+| Authrone              | 10.06.2019 | Removed      | 294             | 9366      |
 | AzoraManga            | 25.06.2019 | OK           | 3               | 131       |
 | BacaManga             | 18.08.2019 | OK           | 1               | 2673      |
 | Batoto                | 10.06.2019 | OK           | 527             | 31561     |
