@@ -41,7 +41,7 @@ Otherwise the request may be declined until you update the list.
 | DM5                   | 12.06.2019 | OK           | 369             | 36309     |
 | DokiFansubs           | 11.06.2019 | OK           | 4               | 72        |
 | DoujinsCom            | 12.06.2019 | OK           | 143             | 12749     |
-| DoujinYosh            | 03.08.2019 | OK           | 19              | 1773      |
+| DoujinYosh            | 06.09.2019 | OK           | 76              | 1815      |
 | DynastyScans          | 11.06.2019 | OK           | 4               | 2015      |
 | EGScans               | 11.06.2019 | OK           | 1               | 200       |
 | E-Hentai              |            | Blocked      | 18518           | 0         |
@@ -178,7 +178,7 @@ Otherwise the request may be declined until you update the list.
 | MangAs                |            | None         | 0               | 0         |
 | MangaSail             | 09.06.2019 | OK           | 240             | 3677      |
 | MangaSee              | 18.08.2019 | OK           | 1               | 4650      |
-| MangaShiro            | 18.08.2019 | OK           | 1               | 1526      |
+| MangaShiro            | 06.09.2019 | OK           | 1               | 1543      |
 | MangaShow             |            | None         | 0               | 0         |
 | MangaStream           | 14.06.2019 | OK           | 1               | 109       |
 | Mangasubes            | 14.06.2019 | OK           | 1               | 8         |
@@ -195,7 +195,7 @@ Otherwise the request may be declined until you update the list.
 | MangaVadisi           | 15.06.2019 | OK           | 1               | 29        |
 | MangaWeek             | 06.08.2019 | OK           | 1               | 23992     |
 | MangaWindow           | 15.06.2019 | Obsolete     | 1166            | 69937     |
-| MangaYosh             | 18.08.2019 | OK           | 138             | 3304      |
+| MangaYosh             | 06.09.2019 | OK           | 138             | 3305      |
 | MangaZuki             | 15.06.2019 | OK           | 1               | 5         |
 | MangazukiClub         | 20.08.2019 | OK           | 2               | 90        |
 | MangazukiMe           | 20.08.2019 | OK           | 9               | 740       |
