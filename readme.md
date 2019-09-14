@@ -154,10 +154,11 @@ Otherwise the request may be declined until you update the list.
 | MangaKakalotFun       | 14.06.2019 | OK           | 774             | 23220     |
 | MangaKid              | 18.08.2019 | OK           | 1               | 2634      |
 | MangaKita             | 18.08.2019 | OK           | 1               | 267       |
+| MangaKomi             |            | None         | 0               | 0         |
 | MangaKu               | 18.08.2019 | OK           | 1               | 522       |
 | MangaLib              |            | None         | 0               | 0         |
 | MangaLife             | 22.07.2019 | OK           | 1               | 4650      |
-| MangaLike             | 09.06.2019 | OK           | 1               | 2620      |
+| MangaLike             | 09.06.2019 | Removed      | 1               | 2620      |
 | MangaNelo             | 10.06.2019 | OK           | 960             | 23022     |
 | MangaOku              |            | None         | 0               | 0         |
 | MangaOnlineBiz        | 14.06.2019 | OK           | 190             | 3873      |
@@ -199,7 +200,7 @@ Otherwise the request may be declined until you update the list.
 | MangaZuki             | 15.06.2019 | OK           | 1               | 5         |
 | MangazukiClub         | 20.08.2019 | OK           | 2               | 90        |
 | MangazukiMe           | 20.08.2019 | OK           | 9               | 740       |
-| MangaZukiOnline       | 11.08.2019 | OK           | 7               | 525       |
+| MangaZukiOnline       | 11.08.2019 | Broken       | 7               | 525       |
 | MangaZukiRaws         | 15.06.2019 | OK           | 2               | 39        |
 | MangaZukiSite         | 11.08.2019 | OK           | 2               | 66        |
 | ManHuaGui             | 16.06.2019 | OK           | 772             | 32372     |
@@ -271,7 +272,7 @@ Otherwise the request may be declined until you update the list.
 | ScanFR                | 16.06.2019 | OK           | 1               | 1166      |
 | ScanOP                | 16.06.2019 | OK           | 1               | 306       |
 | SeaOtterScans         |            | None         | 0               | 0         |
-| SeinagiAdultoFansub   |            | Queue        | 0               | 0         |
+| SeinagiAdultoFansub   | 14.09.2019 | OK           | 3               | 52        |
 | SeinagiFansub         | 16.06.2019 | OK           | 8               | 176       |
 | SelfMangaRU           | 16.06.2019 | OK           | 1               | 70        |
 | SenManga              | 16.06.2019 | OK           | 500             | 9992      |
@@ -317,7 +318,7 @@ Otherwise the request may be declined until you update the list.
 | WhiteCloudPavilion    | 17.06.2019 | OK           | 1               | 15        |
 | WieManga              | 17.06.2019 | OK           | 27              | 604       |
 | WorldThree            | 17.06.2019 | OK           | 2               | 26        |
-| WoweScans             |            | None         | 0               | 0         |
+| WoweScans             | 14.09.2019 | OK           | 1               | 19        |
 | XAnimeSeduccion       | 17.06.2019 | OK           | 5               | 50        |
 | YaoiChanRU            | 09.06.2019 | OK           | 584             | 11660     |
 | YaoiIsLife            | 17.06.2019 | OK           | 4               | 86        |
