@@ -78,7 +78,7 @@ Otherwise the request may be declined until you update the list.
 | IMangaScans           | 12.06.2019 | Removed      | 1               | 100       |
 | Imgur                 |            | None         | 0               | 0         |
 | InManga               | 12.06.2019 | OK           | 1               | 5274      |
-| IsekaiRaw             | 09.06.2019 | OK           | 1               | 1151      |
+| IsekaiRaw             | 09.06.2019 | Removed      | 1               | 1151      |
 | IsekaiScan            | 09.06.2019 | OK           | 15              | 980       |
 | Jaiminisbox           | 09.08.2019 | OK           | 5               | 115       |
 | Japscan               | 12.06.2019 | OK           | 27              | 2822      |
