@@ -73,7 +73,7 @@ Otherwise the request may be declined until you update the list.
 | HoshikuzuuScans       | 12.06.2019 | OK           | 3               | 64        |
 | HoshinoFansub         | 12.06.2019 | Removed      | 5               | 109       |
 | HotChocolateScans     |            | None         | 0               | 0         |
-| HunterFansubScan      | 14.06.2019 | OK           | 2               | 17        |
+| HunterFansubScan      | 14.06.2019 | Removed      | 2               | 17        |
 | IlluminatiManga       | 12.06.2019 | OK           | 4               | 87        |
 | IMangaScans           | 12.06.2019 | OK           | 1               | 100       |
 | Imgur                 |            | None         | 0               | 0         |
