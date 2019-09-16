@@ -71,7 +71,7 @@ Otherwise the request may be declined until you update the list.
 | HoduComics            |            | None         | 0               | 0         |
 | HolyManga             | 12.06.2019 | OK           | 224             | 6686      |
 | HoshikuzuuScans       | 12.06.2019 | OK           | 3               | 64        |
-| HoshinoFansub         | 12.06.2019 | OK           | 5               | 109       |
+| HoshinoFansub         | 12.06.2019 | Removed      | 5               | 109       |
 | HotChocolateScans     |            | None         | 0               | 0         |
 | HunterFansubScan      | 14.06.2019 | OK           | 2               | 17        |
 | IlluminatiManga       | 12.06.2019 | OK           | 4               | 87        |
@@ -312,6 +312,7 @@ Otherwise the request may be declined until you update the list.
 | UnionMangas           | 31.07.2019 | OK           | 183             | 7293      |
 | VnSharing             |            | None         | 0               | 0         |
 | VortexScans           | 17.06.2019 | OK           | 3               | 64        |
+| WakaScan              | 16.09.2019 | OK           | 58              | 5728      |
 | WebToons              | 21.08.2019 | Broken       | 1               | 315       |
 | WebtoonTr             |            | None         | 0               | 0         |
 | WestManga             | 18.08.2019 | OK           | 1               | 692       |
