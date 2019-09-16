@@ -75,7 +75,7 @@ Otherwise the request may be declined until you update the list.
 | HotChocolateScans     |            | None         | 0               | 0         |
 | HunterFansubScan      | 14.06.2019 | Removed      | 2               | 17        |
 | IlluminatiManga       | 12.06.2019 | OK           | 4               | 87        |
-| IMangaScans           | 12.06.2019 | OK           | 1               | 100       |
+| IMangaScans           | 12.06.2019 | Removed      | 1               | 100       |
 | Imgur                 |            | None         | 0               | 0         |
 | InManga               | 12.06.2019 | OK           | 1               | 5274      |
 | IsekaiRaw             | 09.06.2019 | OK           | 1               | 1151      |
