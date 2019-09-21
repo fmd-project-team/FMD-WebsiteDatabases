@@ -99,7 +99,7 @@ Otherwise the request may be declined until you update the list.
 | KomikGue              | 18.09.2019 | OK           | 21              | 607       |
 | Komikid               | 18.09.2019 | OK           | 1               | 700       |
 | KomikIndo             | 18.09.2019 | OK           | 1               | 2005      |
-| KomikIndoWebId        | 21.07.2019 | Broken       | 1               | 710       |
+| KomikIndoWebId        | 21.07.2019 | OK           | 1               | 710       |
 | KomikMama             | 18.09.2019 | OK           | 1               | 693       |
 | KomikManga            | 18.09.2019 | OK           | 1               | 1777      |
 | KomikStation          | 18.09.2019 | OK           | 1               | 1589      |
@@ -241,7 +241,7 @@ Otherwise the request may be declined until you update the list.
 | PervEden              | 09.06.2019 | OK           | 14              | 1311      |
 | PervEden_IT           | 09.06.2019 | OK           | 2               | 175       |
 | PhoenixSerenade       | 16.06.2019 | OK           | 2               | 29        |
-| PlotTwistNoFansub     |            | None         | 0               | 0         |
+| PlotTwistNoFansub     | 21.09.2019 | OK           | 2               | 75        |
 | PlusComico            |            | None         | 0               | 0         |
 | PocketAngelScan       |            | None         | 0               | 0         |
 | PornComix             | 16.06.2019 | Broken       | 1139            | 16126     |
