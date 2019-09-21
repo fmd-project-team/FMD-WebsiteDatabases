@@ -205,6 +205,7 @@ Otherwise the request may be declined until you update the list.
 | MangaZukiSite         | 11.08.2019 | OK           | 2               | 66        |
 | ManHuaGui             | 16.06.2019 | OK           | 772             | 32372     |
 | ManHuaTai             |            | None         | 0               | 0         |
+| Manhwa18              | 21.09.2019 | OK           | 1               | 443       |
 | ManhwaClub            | 20.08.2019 | OK           | 3               | 189       |
 | ManhwaCo              | 15.06.2019 | OK           | 1               | 15        |
 | ManhwaHand            | 15.06.2019 | OK           | 3               | 151       |
