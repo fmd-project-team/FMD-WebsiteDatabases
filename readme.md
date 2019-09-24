@@ -211,7 +211,7 @@ Otherwise the request may be declined until you update the list.
 | ManhwaHand            | 15.06.2019 | OK           | 3               | 151       |
 | ManhwaHentai          | 16.08.2019 | OK           | 3               | 156       |
 | ManhwaScan            | 06.08.2019 | OK           | 1               | 439       |
-| ManyToon              | 15.08.2019 | OK           | 3               | 156       |
+| ManyToon              | 24.09.2019 | OK           | 3               | 189       |
 | MenudoFansub          | 15.06.2019 | OK           | 5               | 101       |
 | MerakiScans           | 09.08.2019 | OK           | 1               | 39        |
 | Mexat                 | 15.06.2019 | OK           | 1               | 283       |
