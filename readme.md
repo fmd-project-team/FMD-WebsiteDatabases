@@ -299,7 +299,7 @@ Otherwise the request may be declined until you update the list.
 | TimelessLeaf          | 17.06.2019 | OK           | 1               | 21        |
 | TMOHentai             | 17.06.2019 | OK           | 600             | 15143     |
 | TonariNoYoungJump     | 09.06.2019 | OK           | 3               | 85        |
-| Toonily               | 18.09.2019 | OK           | 3               | 118       |
+| Toonily               | 08.09.2019 | OK           | 3               | 133       |
 | Toonkor               | 17.06.2019 | OK           | 1               | 1393      |
 | TranslateWebtoon      |            | None         | 0               | 0         |
 | TrashScanlations      |            | None         | 0               | 0         |
