@@ -48,7 +48,7 @@ Otherwise the request may be declined until you update the list.
 | EvilFlowers           | 11.06.2019 | OK           | 8               | 176       |
 | ExHentai              |            | None         | 0               | 0         |
 | EyeOnManga            |            | None         | 0               | 0         |
-| FallenAngelsScans     | 09.08.2019 | OK           | 1               | 54        |
+| FallenAngelsScans     | 08.10.2019 | OK           | 1               | 55        |
 | ForgottenScans        | 11.06.2019 | OK           | 2               | 29        |
 | FujoshiBitches        | 11.06.2019 | OK           | 6               | 148       |
 | FunManga              | 12.06.2019 | OK           | 27              | 16011     |
