@@ -89,7 +89,7 @@ Otherwise the request may be declined until you update the list.
 | KirishimaFansub       | 12.06.2019 | OK           | 5               | 104       |
 | Kiryuu                | 18.09.2019 | OK           | 1               | 2448      |
 | KissDoujin            |            | None         | 0               | 0         |
-| KissManga             | 07.09.2019 | OK           | 341             | 16772     |
+| KissManga             | 20.10.2019 | OK           | 341             | 14030     |
 | KlikManga             | 18.09.2019 | OK           | 25              | 2326      |
 | KnightNoFansub        | 09.08.2019 | OK           | 2               | 12        |
 | KoMBatch              | 18.09.2019 | OK           | 1               | 262       |
