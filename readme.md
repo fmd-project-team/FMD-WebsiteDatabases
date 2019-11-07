@@ -159,6 +159,7 @@ Otherwise the request may be declined until you update the list.
 | MangaKita             | 18.09.2019 | OK           | 1               | 268       |
 | MangaKomi             |            | None         | 0               | 0         |
 | MangaKu               | 18.09.2019 | OK           | 1               | 577       |
+| Mangakyo              | 07.11.2019 | OK           | 1               | 302       |
 | MangaLib              |            | None         | 0               | 0         |
 | MangaLife             | 15.10.2019 | OK           | 1               | 4700      |
 | MangaLike             | 09.06.2019 | Removed      | 1               | 2620      |
@@ -210,6 +211,7 @@ Otherwise the request may be declined until you update the list.
 | MangaZukiSite         | 11.08.2019 | OK           | 2               | 66        |
 | ManhuaBox             | 03.11.2019 | OK           | 2               | 25        |
 | ManHuaGui             | 16.06.2019 | OK           | 772             | 32372     |
+| ManhuaID              | 07.11.2019 | OK           | 1               | 191       |
 | ManHuaTai             |            | None         | 0               | 0         |
 | Manhwa18              | 21.09.2019 | OK           | 1               | 443       |
 | ManhwaClub            | 20.08.2019 | OK           | 3               | 189       |
@@ -273,7 +275,7 @@ Otherwise the request may be declined until you update the list.
 | ReadComicsOnlineRU    | 05.08.2019 | OK           | 1               | 2615      |
 | ReadHentaiManga       | 16.06.2019 | OK           | 422             | 10121     |
 | ReadMangaEU           |            | None         | 0               | 0         |
-| ReadMangaRU           | 16.06.2019 | Broken       | 1               | 70        |
+| ReadMangaRU           | 07.11.2019 | OK           | 246             | 4587      |
 | ReadMangaToday        | 17.06.2019 | OK           | 27              | 15670     |
 | ReadManhua            | 16.06.2019 | OK           | 2               | 15        |
 | ReadRawManga          | 03.11.2019 | OK           | 6               | 434       |
@@ -287,7 +289,7 @@ Otherwise the request may be declined until you update the list.
 | SeinagiAdultoFansub   | 14.09.2019 | OK           | 3               | 52        |
 | SeinagiFansub         | 16.06.2019 | OK           | 8               | 176       |
 | SekteKomik            | 03.11.2019 | OK           | 1               | 72        |
-| SelfMangaRU           | 16.06.2019 | OK           | 1               | 70        |
+| SelfMangaRU           | 07.11.2019 | Blocked      | 32              | 2235      |
 | SenManga              | 16.06.2019 | OK           | 500             | 9992      |
 | SenseScans            | 16.06.2019 | OK           | 2               | 32        |
 | Shakai                | 16.06.2019 | OK           | 55              | 3056      |
