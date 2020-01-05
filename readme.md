@@ -342,6 +342,6 @@ Otherwise the request may be declined until you update the list.
 | YoManga               | 20.08.2019 | OK           | 8               | 643       |
 | YoungAceUp            |            | None         | 0               | 0         |
 | Yuri-ism              | 17.06.2019 | OK           | 4               | 78        |
-| ZeroScans             | 17.06.2019 | OK           | 2               | 45        |
+| ZeroScans             | 05.01.2020 | OK           | 2               | 46        |
 | ZinManga              | 09.06.2019 | OK           | 2               | 33        |
 | ZManga                | 15.08.2019 | OK           | 2               | 16        |
