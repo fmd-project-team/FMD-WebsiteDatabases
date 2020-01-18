@@ -129,7 +129,7 @@ Otherwise the request may be declined until you update the list.
 | MangaChanRU           | 09.06.2019 | OK           | 800             | 15988     |
 | MangaDeep             | 13.06.2019 | OK           | 63              | 1253      |
 | MangaDenizi           | 13.06.2019 | OK           | 1               | 79        |
-| MangaDex              | 05.01.2020 | OK           | 341             | 38281     |
+| MangaDex              | 18.01.2020 | OK           | 386             | 38683     |
 | MangaDoom             | 14.06.2019 | OK           | 27              | 15634     |
 | MangaDoor             | 13.06.2019 | OK           | 1               | 1870      |
 | MangaEden             | 09.06.2019 | OK           | 69              | 6819      |
