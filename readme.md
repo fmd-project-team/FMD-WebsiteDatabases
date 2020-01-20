@@ -26,7 +26,7 @@ Otherwise the request may be declined until you update the list.
 | BunnysScans           | 10.06.2019 | OK           | 2               | 36        |
 | CanisMajorScans       | 10.06.2019 | OK           | 3               | 58        |
 | CentralDeMangas       | 10.06.2019 | OK           | 70              | 3476      |
-| ChampionScans         | 05.01.2020 | OK           | 2               | 22        |
+| ProjectTime           | 20.01.2020 | OK           | 2               | 22        |
 | ChibiManga            | 10.06.2019 | OK           | 3               | 124       |
 | ComicExtra            | 09.06.2019 | OK           | 1               | 16603     |
 | Comico                |            | None         | 0               | 0         |
@@ -83,12 +83,12 @@ Otherwise the request may be declined until you update the list.
 | InManga               | 12.06.2019 | OK           | 1               | 5274      |
 | IsekaiRaw             | 09.06.2019 | Removed      | 1               | 1151      |
 | IsekaiScan            | 09.06.2019 | OK           | 15              | 980       |
-| Jaiminisbox           | 05.01.2020 | OK           | 6               | 127       |
+| Jaiminisbox           | 20.01.2020 | OK           | 6               | 129       |
 | Japscan               | 12.06.2019 | OK           | 27              | 2822      |
 | JokerFansub           |            | None         | 0               | 0         |
 | KazeManga             | 18.09.2019 | OK           | 1               | 618       |
 | KIDzScan              | 18.08.2019 | OK           | 2               | 16        |
-| KireiCake             | 05.01.2020 | OK           | 4               | 96        |
+| KireiCake             | 20.01.2020 | OK           | 4               | 98        |
 | KirishimaFansub       | 12.06.2019 | OK           | 5               | 104       |
 | Kiryuu                | 18.09.2019 | OK           | 1               | 2448      |
 | KissDoujin            |            | None         | 0               | 0         |
@@ -222,7 +222,7 @@ Otherwise the request may be declined until you update the list.
 | ManyToon              | 24.09.2019 | OK           | 3               | 189       |
 | ManyToonCom           | 03.11.2019 | OK           | 4               | 230       |
 | MenudoFansub          | 15.06.2019 | OK           | 5               | 101       |
-| MerakiScans           | 15.10.2019 | OK           | 1               | 40        |
+| MerakiScans           | 20.01.2020 | OK           | 1               | 43        |
 | Mexat                 | 15.06.2019 | OK           | 1               | 283       |
 | MintMangaRU           | 15.06.2019 | Broken       | 1               | 70        |
 | MyReadingManga        | 15.06.2019 | OK           | 1713            | 34250     |
