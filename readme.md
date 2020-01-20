@@ -58,7 +58,7 @@ Otherwise the request may be declined until you update the list.
 | GoodManga             |            | None         | 0               | 0         |
 | HamTruyen             | 12.06.2019 | OK           | 130             | 8605      |
 | HanaScan              | 18.06.2019 | OK           | 1               | 2805      |
-| HatigarmScans         | 05.01.2019 | OK           | 1               | 54        |
+| HatigarmScans         | 05.01.2020 | OK           | 1               | 54        |
 | HeavenManga           | 12.06.2019 | OK           | 223             | 6673      |
 | HelveticaScans        | 12.06.2019 | OK           | 2               | 28        |
 | Hentai2Read           | 12.06.2019 | OK           | 530             | 25424     |
