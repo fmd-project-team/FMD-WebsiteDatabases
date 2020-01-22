@@ -6,7 +6,7 @@ Otherwise the request may be declined until you update the list.
 |:----------------------|:----------:|:------------:|:---------------:|:---------:|
 | 11Toon                | 22.07.2019 | OK           | 20              | 800       |
 | 3asq                  | 09.06.2019 | OK           | 10              | 190       |
-| 3asqOrg               | 09.06.2019 | OK           | 2               | 74        |
+| 3asqOrg               | 22.01.2020 | OK           | 2               | 116        |
 | 8Muses                |            | None         | 0               | 0         |
 | 9hentai               | 09.06.2019 | OK           | 3167            | 56938     |
 | AcademyVN             | 09.06.2019 | OK           | 156             | 6205      |
