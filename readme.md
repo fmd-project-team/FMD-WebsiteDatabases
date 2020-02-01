@@ -94,7 +94,7 @@ Otherwise the request may be declined until you update the list.
 | KissDoujin            |            | None         | 0               | 0         |
 | KissManga             | 29.01.2020 | OK           | 359             | 17716     |
 | KlikManga             | 29.01.2020 | OK           | 32              | 3028      |
-| KnightNoFansub        | 09.08.2019 | OK           | 2               | 12        |
+| KnightNoFansub        | 01.02.2020 | OK           | 2               | 17        |
 | KoMBatch              | 29.01.2020 | OK           | 19              | 324       |
 | KomikAV               | 29.01.2020 | OK           | 1               | 1963      |
 | KomikCast             | 29.01.2020 | OK           | 1               | 2768      |
