@@ -290,7 +290,7 @@ Otherwise the request may be declined until you update the list.
 | ScanOP                | 16.06.2019 | OK           | 1               | 306       |
 | SeaOtterScans         |            | None         | 0               | 0         |
 | SeinagiAdultoFansub   | 14.09.2019 | OK           | 3               | 52        |
-| SeinagiFansub         | 16.06.2019 | OK           | 8               | 176       |
+| SeinagiFansub         | 03.02.2020 | OK           | 8               | 177       |
 | SekteKomik            | 29.01.2020 | OK           | 1               | 185       |
 | SelfMangaRU           | 07.11.2019 | Blocked      | 32              | 2235      |
 | SenManga              | 16.06.2019 | OK           | 500             | 9992      |
