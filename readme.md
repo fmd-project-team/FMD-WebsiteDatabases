@@ -148,7 +148,7 @@ Otherwise the request may be declined until you update the list.
 | MangaHispano          | 14.06.2019 | OK           | 1               | 13        |
 | MangaHome             | 14.06.2019 | OK           | 1               | 40        |
 | MangaHost             | 01.09.2019 | OK           | 163             | 6810      |
-| MangaHubIO            | 14.06.2019 | OK           | 948             | 28440     |
+| MangaHubIO            | 04.02.2020 | OK           | 948             | 28440     |
 | MangaHubRU            | 14.06.2019 | OK           | 1               | 48        |
 | MangaichiScan         |            | None         | 0               | 0         |
 | MangaIndo             | 29.01.2020 | OK           | 1               | 2614      |
