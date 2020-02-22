@@ -82,7 +82,7 @@ Otherwise the request may be declined until you update the list.
 | Imgur                 |            | None         | 0               | 0         |
 | InManga               | 12.06.2019 | OK           | 1               | 5274      |
 | IsekaiRaw             | 09.06.2019 | Removed      | 1               | 1151      |
-| IsekaiScan            | 09.06.2019 | OK           | 15              | 980       |
+| IsekaiScan            | 22.02.2020 | OK           | 15              | 1991       |
 | Jaiminisbox           | 20.01.2020 | OK           | 6               | 129       |
 | Japscan               | 12.06.2019 | OK           | 27              | 2822      |
 | JokerFansub           |            | None         | 0               | 0         |
