@@ -58,7 +58,7 @@ Otherwise the request may be declined until you update the list.
 | GoodManga             |            | None         | 0               | 0         |
 | HamTruyen             | 12.06.2019 | OK           | 130             | 8605      |
 | HanaScan              | 18.06.2019 | OK           | 1               | 2805      |
-| HatigarmScans         | 25.02.2020 | OK           | 1               | 6        |
+| HatigarmScans         | 15.03.2020 | OK           | 1               | 7         |
 | HeavenManga           | 12.06.2019 | OK           | 223             | 6673      |
 | HelveticaScans        | 12.06.2019 | OK           | 2               | 28        |
 | Hentai2Read           | 12.06.2019 | OK           | 530             | 25424     |
@@ -332,7 +332,7 @@ Otherwise the request may be declined until you update the list.
 | VnSharing             |            | None         | 0               | 0         |
 | VortexScans           | 17.06.2019 | OK           | 3               | 64        |
 | WakaScan              | 16.09.2019 | OK           | 58              | 5728      |
-| WebToons              | 05.10.2019 | Broken       | 1               | 334       |
+| WebToons              | 15.03.2020 | Broken       | 1               | 345       |
 | WebtoonTr             |            | None         | 0               | 0         |
 | WestManga             | 29.01.2020 | OK           | 1               | 821       |
 | WhiteCloudPavilion    | 17.06.2019 | OK           | 1               | 15        |
