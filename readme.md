@@ -6,7 +6,7 @@ Otherwise the request may be declined until you update the list.
 |:----------------------|:----------:|:------------:|:---------------:|:---------:|
 | 11Toon                | 22.07.2019 | OK           | 20              | 800       |
 | 3asq                  | 09.06.2019 | OK           | 10              | 190       |
-| 3asqOrg               | 22.01.2020 | OK           | 2               | 116        |
+| 3asqOrg               | 22.01.2020 | OK           | 2               | 116       |
 | 8Muses                |            | None         | 0               | 0         |
 | 9hentai               | 09.06.2019 | OK           | 3167            | 56938     |
 | AcademyVN             | 09.06.2019 | OK           | 156             | 6205      |
@@ -82,7 +82,7 @@ Otherwise the request may be declined until you update the list.
 | Imgur                 |            | None         | 0               | 0         |
 | InManga               | 12.06.2019 | OK           | 1               | 5274      |
 | IsekaiRaw             | 09.06.2019 | Removed      | 1               | 1151      |
-| IsekaiScan            | 22.02.2020 | OK           | 15              | 1991       |
+| IsekaiScan            | 22.02.2020 | OK           | 15              | 1991      |
 | Jaiminisbox           | 20.01.2020 | OK           | 6               | 129       |
 | Japscan               | 12.06.2019 | OK           | 27              | 2822      |
 | JokerFansub           |            | None         | 0               | 0         |
@@ -332,7 +332,7 @@ Otherwise the request may be declined until you update the list.
 | VnSharing             |            | None         | 0               | 0         |
 | VortexScans           | 17.06.2019 | OK           | 3               | 64        |
 | WakaScan              | 16.09.2019 | OK           | 58              | 5728      |
-| WebToons              | 15.03.2020 | Broken       | 1               | 345       |
+| WebToons              | 17.04.2020 | Broken       | 1               | 353       |
 | WebtoonTr             |            | None         | 0               | 0         |
 | WestManga             | 29.01.2020 | OK           | 1               | 821       |
 | WhiteCloudPavilion    | 17.06.2019 | OK           | 1               | 15        |
