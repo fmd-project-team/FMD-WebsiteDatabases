@@ -279,7 +279,7 @@ Otherwise the request may be declined until you update the list.
 | ReadHentaiManga       | 16.06.2019 | OK           | 422             | 10121     |
 | ReadMangaEU           |            | None         | 0               | 0         |
 | ReadMangaRU           | 07.11.2019 | OK           | 246             | 4587      |
-| ReadMangaToday        | 17.06.2019 | OK           | 27              | 15670     |
+| ReadMangaToday        | 17.06.2019 | OK           | 27              | 16050     |
 | ReadManhua            | 16.06.2019 | OK           | 2               | 15        |
 | ReadRawManga          | 03.11.2019 | OK           | 6               | 434       |
 | Riceballicious        |            | None         | 0               | 0         |
