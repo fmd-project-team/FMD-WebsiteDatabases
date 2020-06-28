@@ -234,7 +234,7 @@ Otherwise the request may be declined until you update the list.
 | NeuManga              | 29.01.2020 | OK           | 1               | 1569      |
 | NewType               | 21.06.2019 | OK           | 1               | 79        |
 | Ngomik                | 29.01.2020 | OK           | 1               | 2460      |
-| NHentai               | 20.05.2020 | OK           | 12347           | 308678    |
+| NHentai               | 20.05.2020 | OK           | 12529           | 313187    |
 | NiAdd                 |            | None         | 0               | 0         |
 | Nightow               |            | None         | 0               | 0         |
 | NineManga             | 16.06.2019 | OK           | 1200            | 31286     |
