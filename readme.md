@@ -4,95 +4,108 @@ Otherwise the request may be declined until you update the list.
   
 | Website               | Updated    | Status       | Directory Pages | # Manga   |
 |:----------------------|:----------:|:------------:|:---------------:|:---------:|
-| 11Toon                | 22.07.2019 | OK           | 20              | 800       |
+| 11Toon                | 18.06.2020 | OK           | 20              | 10697     |
+| 1stKissManga          | 18.06.2020 | OK           | 0               | 2206      |
+| 365Manga              | 18.06.2020 | OK           | 0               | 2206      |
 | 3asq                  | 09.06.2019 | OK           | 10              | 190       |
 | 3asqOrg               | 22.01.2020 | OK           | 2               | 116       |
 | 8Muses                |            | None         | 0               | 0         |
-| 9hentai               | 09.06.2019 | OK           | 3167            | 56938     |
+| 9hentai               | 18.06.2020 | OK           | 3167            | 53512     |
 | AcademyVN             | 09.06.2019 | OK           | 156             | 6205      |
-| AcQQCom               | 10.06.2019 | OK           | 1100            | 13190     |
+| AcQQCom               | 18.06.2020 | OK           | 1100            | 32966     |
 | AllHentai             | 10.06.2019 | OK           | 141             | 8449      |
 | AnimExtremist         | 10.06.2019 | OK           | 1               | 400       |
-| AntisenseScans        | 10.06.2019 | OK           | 2               | 48        |
-| AsmHentai             | 01.08.2019 | OK           | 13039           | 260775    |
+| AntisenseScans        | 18.06.2020 | OK           | 2               | 48        |
+| AsmHentai             | 18.06.2020 | OK           | 13039           | 58940     |
 | AtelierDuNoir         |            | None         | 0               | 0         |
 | Authrone              | 10.06.2019 | Removed      | 294             | 9366      |
 | AzoraManga            | 25.06.2019 | OK           | 3               | 131       |
 | BacaManga             | 29.01.2020 | OK           | 1               | 3131      |
-| BaekjinScans          | 03.11.2019 | OK           | 1               | 14        |
-| Batoto                | 10.06.2019 | OK           | 527             | 31561     |
+| BaekjinScans          | 18.06.2020 | OK           | 1               | 14        |
+| Batoto                | 18.06.2020 | OK           | 527             | 51830     |
 | BlogTruyen            |            | None         | 0               | 0         |
-| BoredomSociety        | 10.06.2019 | OK           | 3               | 28        |
-| BunnysScans           | 10.06.2019 | OK           | 2               | 36        |
-| CanisMajorScans       | 10.06.2019 | OK           | 3               | 58        |
+| BoredomSociety        | 18.06.2020 | OK           | 3               | 28        |
+| BunnysScans           | 18.06.2020 | OK           | 2               | 36        |
+| CanisMajorScans       | 18.06.2020 | OK           | 3               | 58        |
 | CentralDeMangas       | 10.06.2019 | OK           | 70              | 3476      |
 | ProjectTime           | 20.01.2020 | OK           | 2               | 22        |
-| ChibiManga            | 10.06.2019 | OK           | 3               | 124       |
-| ComicExtra            | 09.06.2019 | OK           | 1               | 16603     |
-| Comico                |            | None         | 0               | 0         |
+| ChibiManga            | 18.06.2020 | OK           | 3               | 254       |
+| ComicExtra            | 18.06.2020 | OK           | 1               | 21318     |
+| Comico                | 18.06.2020 | OK           | 0               | 771       |
 | ComicoCoID            | 18.09.2019 | OK           | 26              | 313       |
 | ComicVn               | 10.06.2019 | OK           | 20              | 480       |
 | CopyPasteScanlation   | 31.07.2019 | OK           | 1               | 11        |
 | CoYuHi                | 31.07.2019 | OK           | 1               | 156       |
 | DarkskyProjects       | 31.07.2019 | OK           | 2               | 19        |
 | DarkSkyScans          |            | None         | 0               | 0         |
-| DeathTollScans        | 10.06.2019 | OK           | 2               | 42        |
+| DeathTollScans        | 18.06.2020 | OK           | 2               | 56        |
 | DesuMe                | 10.06.2019 | OK           | 81              | 1933      |
 | DigitalTeam           | 11.06.2019 | OK           | 1               | 46        |
-| DM5                   | 12.06.2019 | OK           | 369             | 36309     |
-| DokiFansubs           | 11.06.2019 | OK           | 4               | 72        |
-| DoujinsCom            | 12.06.2019 | OK           | 143             | 12749     |
-| DoujinYosh            | 29.01.2020 | OK           | 1               | 4056      |
-| DynastyScans          | 11.06.2019 | OK           | 4               | 2015      |
-| EGScans               | 11.06.2019 | OK           | 1               | 200       |
-| E-Hentai              |            | Blocked      | 18518           | 0         |
-| EvilFlowers           | 11.06.2019 | OK           | 8               | 176       |
+| DisasterScans         | 18.06.2020 | OK           | 0               | 12        |
+| DM5                   | 18.06.2020 | OK           | 369             | 41427     |
+| DokiFansubs           | 18.06.2020 | OK           | 4               | 72        |
+| DoujinsCom            | 18.06.2020 | OK           | 143             | 14963     |
+| DoujinYosh            | 18.06.2020 | OK           | 1               | 4056      |
+| DynastyScans          | 18.06.2020 | OK           | 4               | 2385      |
+| EarlyManga            | 18.06.2020 | OK           | 1               | 102       |
+| EcchiScans            | 18.06.2020 | OK           | 1               | 4905      |
+| EdelgardeScans        | 18.06.2020 | OK           | 1               | 8         |
+| EGScans               | 18.06.2020 | OK           | 1               | 207       |
+| E-Hentai              | 18.06.2020 | Blocked      | 18518           | 79230     |
+| EvilFlowers           | 18.06.2020 | OK           | 8               | 176       |
 | ExHentai              |            | None         | 0               | 0         |
 | EyeOnManga            |            | None         | 0               | 0         |
-| FallenAngelsScans     | 05.01.2020 | OK           | 1               | 55        |
-| ForgottenScans        | 11.06.2019 | OK           | 2               | 29        |
-| FujoshiBitches        | 11.06.2019 | OK           | 6               | 148       |
-| FunManga              | 12.06.2019 | OK           | 27              | 16011     |
+| FallenAngelsScans     | 18.06.2020 | OK           | 1               | 56        |
+| ForgottenScans        | 18.06.2020 | OK           | 2               | 29        |
+| FujoshiBitches        | 18.06.2020 | OK           | 6               | 153       |
+| FunManga              | 18.06.2020 | OK           | 27              | 16497     |
 | GManga                |            | None         | 0               | 0         |
+| GetManhwa             | 18.06.2020 | OK           | 0               | 156       |
 | GodsRealmScan         | 11.06.2019 | OK           | 2               | 14        |
 | GoodManga             |            | None         | 0               | 0         |
+| GuyaMoe               | 18.06.2020 | OK           | 0               | 3         |
 | HamTruyen             | 12.06.2019 | OK           | 130             | 8605      |
-| HanaScan              | 18.06.2019 | OK           | 1               | 2805      |
-| HatigarmScans         | 15.03.2020 | OK           | 1               | 7         |
-| HeavenManga           | 12.06.2019 | OK           | 223             | 6673      |
-| HelveticaScans        | 12.06.2019 | OK           | 2               | 28        |
-| Hentai2Read           | 12.06.2019 | OK           | 530             | 25424     |
-| HentaiCafe            | 30.06.2019 | OK           | 416             | 3742      |
-| HentaiChanRU          | 09.06.2019 | OK           | 814             | 15939     |
-| HentaiFox             | 13.06.2019 | OK           | 2991            | 59810     |
-| HentaiHand            |            | Broken       | 0               | 0         |
-| HentaiHere            | 12.06.2019 | OK           | 636             | 25439     |
-| HentaiNexus           | 19.07.2019 | OK           | 168             | 5039      |
-| HentaiRead            |            | None         | 0               | 0         |
-| HitomiLa              | 24.06.2019 | OK           | 1               | 476735    |
+| HanaScan              | 18.06.2020 | OK           | 1               | 3382      |
+| HatigarmScans         | 19.06.2020 | OK           | 1               | 9         |
+| HeavenManga           | 18.06.2020 | OK           | 223             | 9710      |
+| HelveticaScans        | 18.06.2020 | OK           | 2               | 31        |
+| Hentai2Read           | 18.06.2020 | OK           | 530             | 23572     |
+| HentaiCafe            | 18.06.2020 | OK           | 416             | 8304      |
+| HentaiChanRU          | 18.06.2020 | OK           | 814             | 19025     |
+| HentaiFox             | 18.06.2020 | OK           | 2991            | 69234     |
+| HentaiHand            | 18.06.2020 | Broken       | 0               | 276539    |
+| HentaiHere            | 18.06.2020 | OK           | 636             | 31108     |
+| HentaiNexus           | 18.06.2020 | OK           | 168             | 6199      |
+| HentaiRead            | 18.06.2020 | OK           | 0               | 3916      |
+| HeroScan              | 18.06.2020 | OK           | 0               | 2410      |
+| Hiperdex              |            | None         | 0               | 0         |
+| HitomiLa              | 18.06.2020 | OK           | 1               | 562729    |
 | HoduComics            |            | None         | 0               | 0         |
-| HolyManga             | 12.06.2019 | OK           | 224             | 6686      |
-| HoshikuzuuScans       | 12.06.2019 | OK           | 3               | 64        |
+| HolyManga             | 18.06.2020 | OK           | 224             | 10214     |
+| HoshikuzuuScans       | 18.06.2020 | OK           | 3               | 65        |
 | HoshinoFansub         | 12.06.2019 | Removed      | 5               | 109       |
 | HotChocolateScans     |            | None         | 0               | 0         |
+| HunlightScans         | 18.06.2020 | OK           | 1               | 4         |
 | HunterFansub          | 03.11.2019 | OK           | 2               | 18        |
 | HunterFansubScan      | 14.06.2019 | Removed      | 2               | 17        |
-| IlluminatiManga       | 12.06.2019 | OK           | 4               | 87        |
+| IlluminatiManga       | 18.08.2020 | OK           | 4               | 92        |
 | IMangaScans           | 12.06.2019 | Removed      | 1               | 100       |
 | Imgur                 |            | None         | 0               | 0         |
 | InManga               | 12.06.2019 | OK           | 1               | 5274      |
 | IsekaiRaw             | 09.06.2019 | Removed      | 1               | 1151      |
-| IsekaiScan            | 22.02.2020 | OK           | 15              | 1991      |
-| Jaiminisbox           | 20.01.2020 | OK           | 6               | 129       |
+| IsekaiScan            | 18.06.2020 | OK           | 15              | 1991      |
+| Jaiminisbox           | 18.06.2020 | OK           | 6               | 136       |
 | Japscan               | 12.06.2019 | OK           | 27              | 2822      |
 | JokerFansub           |            | None         | 0               | 0         |
 | KazeManga             | 18.09.2019 | OK           | 1               | 618       |
 | KIDzScan              | 18.08.2019 | OK           | 2               | 16        |
-| KireiCake             | 20.01.2020 | OK           | 4               | 98        |
+| KireiCake             | 18.06.2020 | OK           | 4               | 105       |
 | KirishimaFansub       | 12.06.2019 | OK           | 5               | 104       |
 | Kiryuu                | 18.09.2019 | OK           | 1               | 2448      |
 | KissDoujin            |            | None         | 0               | 0         |
-| KissManga             | 02.06.2020 | OK           | 359             | 18924     |
+| KissManga             | 18.06.2020 | OK           | 359             | 14054     |
+| KissMangaIN           | 18.06.2020 | OK           | 1               | 1738      |
+| KKJScans              | 18.06.2020 | OK           | 1               | 13        |
 | KlikManga             | 29.01.2020 | OK           | 32              | 3028      |
 | KnightNoFansub        | 01.02.2020 | OK           | 2               | 17        |
 | KoMBatch              | 29.01.2020 | OK           | 19              | 324       |
@@ -112,37 +125,43 @@ Otherwise the request may be declined until you update the list.
 | Kyuroku               | 18.09.2019 | OK           | 1               | 1713      |
 | LeitorNet             | 13.06.2019 | OK           | 1               | 30        |
 | LeoManga              | 05.08.2019 | OK           | 1               | 1022      |
-| LetItGoScans          | 05.01.2020 | OK           | 3               | 26        |
+| LetItGoScans          | 18.06.2020 | OK           | 3               | 47        |
 | LeviatanScans         | 29.01.2020 | OK           | 1               | 11        |
-| LeviatanScansEN       | 29.01.2020 | OK           | 1               | 17        |
-| Lhscans               | 13.06.2019 | OK           | 1               | 2339      |
-| LHTranslation         | 05.01.2020 | OK           | 1               | 105       |
+| LeviatanScansEN       | 18.06.2020 | OK           | 1               | 32        |
+| Lhscans               | 18.06.2020 | OK           | 1               | 2925      |
+| LHTranslation         | 18.06.2020 | OK           | 1               | 168       |
 | LoliVault             | 13.06.2019 | OK           | 4               | 92        |
-| Luscious              |            | None         | 0               | 0         |
-| Madokami              |            | None         | 0               | 0         |
+| Luscious              | 18.06.2020 | OK           | 1               | 27364     |
+| Madokami              | 18.06.2020 | Registered   | 1               | 1145      |
 | MaidMangaID           | 29.01.2020 | OK           | 1               | 434       |
+| ManaMoa               | 18.06.2020 | OK           | 1               | 2660      |
+| Manga68               | 18.06.2020 | OK           | 1               | 586       |
 | Manga99               | 13.06.2019 | OK           | 99              | 1833      |
 | MangaAe               | 13.06.2019 | OK           | 108             | 5160      |
 | MangaArab             |            | None         | 0               | 0         |
 | MangaBB               |            | None         | 0               | 0         |
+| MangaBob              | 18.06.2020 | OK           | 1               | 132       |
 | Mangacan              | 29.01.2020 | OK           | 1               | 1366      |
 | MangaCeng             | 18.09.2019 | OK           | 1               | 42        |
 | MangaChanRU           | 09.06.2019 | OK           | 800             | 15988     |
-| MangaDeep             | 13.06.2019 | OK           | 63              | 1253      |
+| MangaDao              | 18.06.2020 | OK           | 1               | 28        |
+| MangaDeep             | 18.06.2020 | OK           | 63              | 3222      |
 | MangaDenizi           | 13.06.2019 | OK           | 1               | 79        |
-| MangaDex              | 07.06.2020 | OK           | 428             | 42759     |
-| MangaDoom             | 14.06.2019 | OK           | 27              | 15634     |
+| MangaDex              | 18.06.2020 | OK           | 428             | 38683     |
+| MangaDexToday         | 18.06.2020 | OK           | 1               | 45227     |
+| MangaDods             | 18.06.2020 | OK           | 1               | 15        |
+| MangaDoom             | 18.06.2020 | OK           | 27              | 25062     |
 | MangaDoor             | 13.06.2019 | OK           | 1               | 1870      |
-| MangaEden             | 09.06.2019 | OK           | 69              | 6819      |
+| MangaEden             | 18.06.2020 | OK           | 69              | 19938     |
 | MangaEden_IT          | 09.06.2019 | OK           | 21              | 2090      |
 | Mangaf                |            | None         | 0               | 0         |
-| MangaFox              | 14.06.2019 | OK           | 345             | 24054     |
-| MangaFoxFun           | 03.08.2019 | OK           | 712             | 21360     |
-| MangaFreak            | 03.08.2019 | OK           | 288             | 5168      |
-| MangaFull             | 09.06.2019 | OK           | 1               | 42        |
-| MangaGo               |            | None         | 0               | 0         |
-| MangaHasu             | 14.06.2019 | OK           | 908             | 27215     |
-| MangaHato             | 06.08.2019 | OK           | 1               | 1672      |
+| MangaFox              | 18.06.2020 | OK           | 345             | 27355     |
+| MangaFoxFun           | 18.06.2019 | OK           | 712             | 22108     |
+| MangaFreak            | 18.06.2020 | OK           | 288             | 5046      |
+| MangaFull             | 18.06.2020 | OK           | 1               | 42        |
+| MangaGo               | 18.06.2020 | Broken       | 1               | 31924     |
+| MangaHasu             | 18.06.2020 | OK           | 908             | 36149     |
+| MangaHato             | 18.06.2020 | OK           | 1               | 1672      |
 | MangaHere             | 29.01.2020 | OK           | 1               | 25858     |
 | MangaHereFun          | 14.06.2019 | OK           | 669             | 20070     |
 | MangaHispano          | 14.06.2019 | OK           | 1               | 13        |
