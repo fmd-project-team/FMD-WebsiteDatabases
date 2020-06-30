@@ -183,7 +183,7 @@ Otherwise the request may be declined until you update the list.
 | MangaLib              |            | None         | 0               | 0         |
 | MangaLife             | 05.01.2020 | OK           | 1               | 4800      |
 | MangaLike             | 09.06.2019 | Removed      | 1               | 2620      |
-| MangaNelo             | 10.06.2019 | OK           | 960             | 23022     |
+| MangaNelo             | 01.07.2020 | OK           | 1109            | 26607     |
 | MangaOku              |            | None         | 0               | 0         |
 | MangaOnlineBiz        | 14.06.2019 | OK           | 190             | 3873      |
 | MangaOnlineBR         | 03.08.2019 | OK           | 1               | 315       |
