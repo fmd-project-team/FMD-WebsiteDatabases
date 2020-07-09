@@ -103,7 +103,7 @@ Otherwise the request may be declined until you update the list.
 | KirishimaFansub       | 12.06.2019 | OK           | 5               | 104       |
 | Kiryuu                | 18.09.2019 | OK           | 1               | 2448      |
 | KissDoujin            |            | None         | 0               | 0         |
-| KissManga             | 18.06.2020 | OK           | 359             | 14054     |
+| KissManga             | 09.07.2020 | OK           | 396             | 19432     |
 | KissMangaIN           | 18.06.2020 | OK           | 1               | 1738      |
 | KKJScans              | 18.06.2020 | OK           | 1               | 13        |
 | KlikManga             | 29.01.2020 | OK           | 32              | 3028      |
