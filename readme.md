@@ -332,6 +332,7 @@ Otherwise the request may be declined until you update the list.
 | TapTrans              | 17.06.2019 | OK           | 2               | 30        |
 | TenManga              | 17.06.2019 | OK           | 27              | 30826     |
 | TheCatScans           | 03.08.2019 | OK           | 1               | 21        |
+|TheNonamesScans        | 20.07.2020 | OK           | 1               | 23        |
 | TimelessLeaf          | 17.06.2019 | OK           | 1               | 21        |
 | TMOHentai             | 17.06.2019 | OK           | 600             | 15143     |
 | TonariNoYoungJump     | 09.06.2019 | OK           | 3               | 85        |
